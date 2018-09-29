@@ -9,16 +9,17 @@ function reqSerializer(ctx = {}) {
     path: ctx.path,
     url: ctx.url,
     headers: ctx.headers,
-    protocol: ctx.protocol,
-    ip: ctx.ip,
+    // protocol: ctx.protocol,
+    // ip: ctx.ip,
     query: ctx.query
   };
 }
 
 function resBodySerializer({ status, code, message } = {}) {
   const body = { status, message };
-  if (code)
+  if (code) {
     body.code = code;
+  }
   return body;
 }
 
@@ -26,8 +27,8 @@ function resSerializer(ctx = {}) {
   return {
     statusCode: ctx.status,
     responseTime: ctx.responseTime,
-    type: ctx.type,
-    headers: (ctx.response || {}).headers,
+    // type: ctx.type,
+    // headers: (ctx.response || {}).headers,
     body: resBodySerializer(ctx.body)
   };
 }
@@ -43,8 +44,9 @@ function resSerializer(ctx = {}) {
 function log(options = {}) {
   const { logger = null } = options;
 
-  if (typeof logger !== 'object' || logger === null)
+  if (typeof logger !== 'object' || logger === null) {
     throw new TypeError('Logger required');
+  }
 
   return async (ctx, next) => {
     const startTime = new Date();

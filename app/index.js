@@ -2,10 +2,7 @@
 
 'use strict';
 
-// Load APM on production environment
 const config = require('./config');
-const apm = require('./apm');
-
 const Koa = require('koa');
 const bodyParser = require('koa-bodyparser');
 const cors = require('@koa/cors');
@@ -13,15 +10,13 @@ const errorHandler = require('./middlewares/errorHandler');
 const logMiddleware = require('./middlewares/log');
 const logger = require('./logger');
 const requestId = require('./middlewares/requestId');
+const validateToken = require('./middlewares/validateToken');
 const responseHandler = require('./middlewares/responseHandler');
 const router = require('./routes');
 
-
 const app = new Koa();
 
-// Trust proxy
 app.proxy = true;
-
 // Set middlewares
 app.use(
   bodyParser({
@@ -30,6 +25,7 @@ app.use(
     jsonLimit: '10mb'
   })
 );
+
 app.use(requestId());
 app.use(
   cors({
@@ -39,6 +35,7 @@ app.use(
   })
 );
 app.use(responseHandler());
+app.use(validateToken());
 app.use(errorHandler());
 app.use(logMiddleware({ logger }));
 
@@ -46,11 +43,8 @@ app.use(logMiddleware({ logger }));
 app.use(router.routes());
 app.use(router.allowedMethods());
 
-function onError(err, ctx) {
-  if (apm.active)
-    apm.captureError(err);
-  if (ctx == null)
-    logger.error({ err, event: 'error' }, 'Unhandled exception occured');
+function onError(err) {
+  logger.error({ err, event: 'error' }, 'Unhandled exception occured');
 }
 
 // Handle uncaught errors
