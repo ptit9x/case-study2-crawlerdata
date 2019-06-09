@@ -1,432 +1,8376 @@
-4/6, 1
-bên 1
-cuộc 2
-họp 2
 
 
-Chiều 1
-thường 1
-kỳ 3
-UBND 13
-của 10
-TP 7
-HCM 6
-kinh 3
-về 10
-tế 4
-- 1
-xã 1
-hội, 1
-Chủ 4
-tịch 8
-Nguyễn 1
-Thành 6
-Phong 5
-cho 6
-biết 4
-nhận 5
-được 9
-chưa 2
-từ 6
-đơn 5
-chức 5
-tổng 5
-Phó 12
-giám 7
-đốc 7
-Công 6
-ty 7
-Xây 6
-dựng 7
-Sài 6
-Gòn 4
-ông 19
-Đoàn 4
-Hải 16
-Ngọc 4
-(nguyên 1
-quận 10
-chủ 7
-1), 1
-thông 1
-chỉ 3
-tin 1
-báo 1
-qua 1
-chí.
-Về 1
-phân 3
-việc 6
-công 7
+Chiều 5
+9/6, 27
+đạo 104
+Đại 66
+học 254
+Tôn 39
+Thắng 35
+Đức 84
+tiếng 88
+phản 47
+lên 150
+đối 180
+cơ 153
+quan 251
+chủ 106
+quản 89
+là 887
+Tổng 75
+Liên 86
+đoàn 77
+động 209
+Lao 15
+Việt 253
+về 280
+Nam 226
+những 417
+chỉ 189
+trước 108
+thời 153
+điểm 102
+Luật 18
+Giáo 24
+đại 219
+dục 31
+(sửa 9
+có 835
+đổi) 3
+hiệu 73
+lực 57
+từ 338
+ngày 205
+1/7.
+Động 3
+thái 20
+này 212
+đưa 95
+được 596
+ra 243
+sau 213
+3 36
+văn 61
+xin 50
+bản 36
+ý 65
+kiến 63
+Bộ 74
+- 136
+tạo 76
+Đào 15
+nhiều 260
+đề. 3
+vấn 52
+Trong 64
+đề 66
+đó 179
+cập 10
+số 236
+một 704
+nội 47
+dung 28
+trường 212
+để 454
+chuẩn 45
+bị 213
+triển 67
+thực 97
+khai 51
+hiện 170
+nghị 18
+học.
+Tổng 3
+xác 28
+định, 22
+lãnh 66
+bổ 18
+nhiệm 51
+trưởng 37
+nhà 133
+hay 87
+không 537
+theo 187
+quy 39
+định 181
+các 531
+Đảng 6
+của 1030
+và 1126
+động? 3
+Khái niệm 3
+"quyền 3
+diện 61
+sở 97
+hữu" 3
+hiểu 27
+thế 168
+nào? 3
+Cơ 9
+quyền 117
+thông 107
+hữu 25
+việc 220
+qua 127
+hội 83
+bằng 97
+đồng 201
+cách 126
+khi 349
+nào 68
+lượng 51
+gia 256
+tham 127
+chiếm 30
+lệ 15
+tỷ 55
+thấp, 6
+Hội 40
+còn 239
+làm 263
+nguyên 26
+tắc 13
+tập 110
+quyết 106
+thể, 3
+đa 31
+cũng 227
+số.
+Tổng 3
+nêu 23
+mắc 32
+thắc 3
+khái 6
+niệm 29
+"cơ 3
+lý 104
+thẩm 20
+quyền" 3
+với 519
+hợp 106
+nào, 3
+chính 148
+chế 64
+nên 126
+tổ 78
+đoàn? 3
+hoạt 52
+chức 114
+trường, 13
+danh 64
+rõ 40
+không?
+
+
+
+Đại 3
+trụ 28
+ở 609
+quận 30
+7, 6
+HCM. 8
+TP 53
+Ảnh: 185
+Mạnh 6
+Tùng.
+
+
+Theo 3
+Thắng, 6
+mà 114
+phù 29
+hành 159
+căn 19
+cứ 31
+năm 402
+Điều 19
+2012 4
+(chỉ 3
+2014 3
+trị 19
+giá 123
+30/6). 3
+đến 308
+"Bộ 3
+đang 135
+mới 52
+luật 72
+Chỉ 13
+mới. 7
+sai 9
+nhưng 171
+cho 575
+Bộ", 3
+biết.
+Về 3
+công 375
+chức, Đại 3
+tác 56
+đã 369
+rằng, 22
+lẫn 13
+nhầm 3
+yêu 113
+trường phải 3
+phân 36
+cầu 94
+cấp 62
+cán 26
+bộ, 17
+tiêu 69
+cấp... 3
+bộ 118
+Bởi 11
+bởi 51
+do 114
+đổi), Hiệu 3
+nhận.
+Các 3
+bầu, 3
+viên 278
+thành 416
+Ban 16
+giám 18
+Công 50
+phải 222
+Do 21
+đoàn. 5
+bầu 24
+hoặc 54
+thể 249
+áp 23
+dụng 114
+đoàn.
+"Với 3
+giảng 15
+viên, 23
+người 625
+chức, 12
+lao 19
+thì 125
+càng 30
+cử, 4
+Làm 8
+hoạch. 3
+vậy, 20
+như 204
+lợi 49
+xâm 11
+phạm", 3
+điểm.
+Lãnh 3
+dẫn 96
+viện 31
+Nghị 3
+19 16
+ương 7
+Trung 195
+nhất 196
+cao 161
+học, 19
+bao 66
+gồm 42
+bên 94
+liên 79
+ích 10
+(đại 3
+cộng 28
+hội, 11
+xã 69
+phương, 14
+địa 31
+sử 92
+động, 9
+nghiệp, 23
+doanh 118
+phụ 110
+sinh 155
+huynh, 3
+trường...).
+Với 3
+đơn 64
+vị 100
+sự 219
+nghiệp 126
+lập, 10
+tự 84
+hoàn 61
+toàn, 3
+thường 126
+chi 53
+xuyên 26
+sẽ 283
+mô 16
+hình 87
+trưởng.
+Lãnh 3
+thuê 23
+rằng 88
+nghĩa 34
+quyền. 3
+Theo 14
+đổi), 3
+tên 64
+nữa. 7
+gọi 40
+duy 43
+"Nếu 6
+trì 28
+cũ, 10
+gì 51
+dùng 74
+điểm. 7
+quyền?", 3
+"Dụng 3
+lý. 3
+tách 9
+hữu, 3
+phương".
+
+
+
+Một 3
+thuộc 51
+phòng 46
+nghiệm 38
+thí 35
+Thắng. 3
+Tùng.
+
+
+Trước 3
+đó, 80
+gửi 7
+buộc 20
+ương, 6
+nộp 13
+phần 76
+30% 6
+chênh 8
+lệch 8
+thu 89
+tài 64
+thuế. 3
+Họ 30
+vi 35
+trái 23
+phạm 45
+hành, 3
+định.
+Trong 3
+trọng 75
+ông 141
+Phan 11
+Văn 26
+Anh 83
+(Phó 3
+tịch 59
+động) 3
+trích 20
+nói, 11
+chi. 3
+nay, 11
+Đến 12
+chưa 70
+trường.
+
+Đại 3
+tiền 76
+thân 42
+dân 107
+nghệ 85
+lập 102
+9/1997. 3
+tháng 134
+Trường 5
+đầu 241
+ban 52
+HCM 20
+lý, 13
+sáng 58
+chuyển 25
+bán 139
+sang 37
+công, 16
+động.
+
+Năm 3
+rồi 54
+2015, 12
+gây 59
+xôn 3
+xao 3
+dư 6
+luận 9
+khi quyết 3
+giáo 57
+sư 21
+phó 9
+trong 556
+ngoài 86
+nhu 8
+cầu.
+
+Tháng 3
+9/2017, 4
+bảng 17
+hạng 11
+xếp 30
+nghiên 29
+nhóm 84
+cứu 57
+độc 44
+bố, 5
+đứng 36
+2, 6
+thứ 156
+trên 292
+hàng 249
+loạt 23
+tuổi, 55
+rất 122
+vào 337
+Bách 3
+Hà 135
+khoa 32
+Nội, 17
+Y 3
+Sư 3
+Nội 32
+Ngoại 28
+, 3
+thương.
+ 3
+
+
+
+
+
+18 2
+nam 49
+bạch 9
+nữ 112
+thanh 29
+an. 2
+Bắc 54
+an 86
+Ninh.
+
+
+Sáng 2
+huyện 43
+Thuận 10
+Thành, 2
+bất 78
+Ninh 8
+niên 23
+kiểm 57
+tra 35
+quán karaoke 2
+Đông 10
+Gia 5
+(huyện 6
+phát 116
+Thành) 2
+tại 320
+hai 308
+hát 5
+18 12
+nam, 2
+dấu 9
+phép 23
+ma 6
+chất 51
+tuý.
+Qua 2
+cảnh 102
+tra, 8
+sát 71
+túi 16
+giữ 62
+nylon 8
+tinh 4
+chứa 8
+màu 29
+(nhóm 2
+trắng 8
+nhận 119
+cùng 192
+túy) 2
+cụ 10
+khác 115
+hỗ 17
+trợ 17
+lắc"...
+Cơ 2
+"bay 2
+ngờ 30
+điều 123
+Duy 2
+Đỗ 32
+(22 2
+Định 16
+tuổi) 15
+Nguyệt 2
+Thành 28
+Đức, 4
+(quản 2
+quán) 2
+cung 50
+túy 4
+dụng, 8
+án 33
+trộm 6
+tội 25
+cắp 6
+sản.
+Công 2
+tạm 15
+mở 29
+rộng 46
+vụ 35
+Khoa 8
+Sản 4
+Bệnh 18
+án. 3
+
+
+Khoảng 5
+Hương 7
+5h 2
+Sơn 15
+(Hà 5
+khoảng 76
+Tĩnh), 2
+40 48
+tuổi 50
+bế 2
+bé 30
+trai 49
+đi 205
+chờ 19
+sinh, 2
+nhờ 20
+bà 33
+Dương 15
+Thanh 24
+Thị 21
+chăm 25
+hộ 65
+sản 105
+trông 14
+"mẹ 2
+cháu 7
+cứu", 2
+vội 6
+vã 4
+rời 18
+khỏi 37
+sóc 9
+phòng.
+
+
+
+Bé 2
+bệnh 72
+viện. 2
+Đ.H
+
+
+Sau 2
+tiếng, 16
+quay 28
+lại 143
+bé, 2
+Đa 8
+báo 57
+bác 16
+sĩ 58
+tới 109
+việc. 11
+biên 17
+Qua 4
+nặng 19
+2,6 2
+kg, 6
+sức 66
+khỏe 23
+bình 57
+vài 34
+thường, 2
+ngày.
+Ông 2
+Vương 6
+Khả 5
+Quý, 2
+Phó 30
+đốc 28
+Khê 5
+tìm 81
+thân, 8
+cử 40
+trai, 8
+năng 104
+thủ 165
+định. 5
+tục 102
+
+
+Trên 5
+quảng 49
+biển 56
+cáo, 7
+phú 20
+triệu 94
+giấu 22
+nói 98
+mình 65
+phái 9
+môn 34
+Mặc 11
+LDS. 5
+Sau 41
+đăng 117
+ký 86
+web 8
+trang 96
+thiết 84
+kế 89
+tuyển 43
+vợ 32
+này, 34
+ứng 60
+tiềm 20
+kiện 59
+mời 10
+VIP 5
+7/6. 
+
+
+
+Biển 5
+cáo 48
+xa 31
+bang 11
+lộ 11
+Utah. 5
+Elle
+
+
+Chuyên 5
+mai 8
+mối 39
+Schurtz 10
+Erin 5
+là người 5
+chiến 64
+dịch 62
+trung 114
+nhân 160
+khách 107
+giàu 19
+biết 111
+có. 7
+muốn 75
+vợ, 13
+lấy 37
+kiếm 33
+bạn 266
+thất 26
+đời 62
+điển 6
+Đó là 5
+bại. 5
+30 25
+45, 5
+độ 174
+từng 83
+Nhà 46
+Trắng 29
+tổng 38
+dưới 42
+thống 69
+đảng 5
+Mỹ 140
+Cộng 5
+tuần 44
+hòa.
+Ngay 5
+tiên 104
+5 78
+326 5
+kiện. 8
+tính 46
+Ước 5
+hết 55
+cuối 76
+tháng, 8
+ngàn. 5
+quá 61
+ 
+Dù 5
+trình 70
+buổi 24
+hẹn 18
+hò 18
+kết 134
+thúc 30
+LDSMillionaireMatchmaker.com 5
+khích 20
+khuyến 17
+thấy 98
+bỏ 68
+lai.
+ Giải 5
+tương 53
+tiếp 116
+lỡ 5
+thích 43
+lí 5
+nói: 8
+tôi 203
+"Việc 9
+khả 43
+đủ 34
+nuôi 32
+Nhưng 24
+đình. 13
+kẻ 7
+mỏ. 8
+đào 10
+Nếu 42
+gặp 54
+giúp 30
+thú 7
+đây 78
+vị, 7
+công".
+Triệu 5
+phí 33
+bí 10
+ẩn 5
+cỡ 10
+lớn 109
+vợ. 8
+2013, 6
+Năm 36
+Gordon 5
+phố 164
+Engle, 5
+Chicago, 5
+ga 5
+điện 48
+Stevenson 5
+sàng 13
+sẵn 10
+mình.
+Hoàng 5
+Oddity 5
+(Theo 39
+Central) 5
+lễ 39
+
+
+Chuẩn 5
+cưới 36
+trai Marcin 5
+Miller 5
+15/6, 5
+Phương 102
+Mai 66
+đặt 23
+mẫu 75
+àm 5
+phục, 7
+lba 5
+jumpsuit 10
+cô 164
+dâu 10
+đón 17
+mời. 
+
+
+
+Bản 5
+thảo 8
+phác 6
+Mai.
+
+
+Bộ 5
+áo 24
+liền 7
+thác 14
+quần 10
+đường 144
+cut-out 5
+satin 5
+sắc, 11
+thô 9
+ren 10
+siêu 23
+tơ 11
+đính 18
+mỏng, 5
+cườm. 5
+Phần 15
+tà 5
+váy 17
+thấu 11
+gắn 13
+phía 58
+vẻ 26
+thướt 5
+tha, 5
+mại 22
+mềm 9
+Lek 10
+mặc. 5
+Chi 16
+phục 51
+mắt 27
+lạ 7
+vì 142
+cá 43
+mạnh. 13
+"Thiết 5
+tomboy 5
+nét 5
+mẽ 5
+mạnh 46
+ấy 33
+vẫn 92
+gợi 15
+cảm 34
+tính", 5
+nói.
+
+
+
+Váy 5
+đầm 10
+khiêu 10
+vũ 53
+tiệc 16
+cưới.
+
+
+Trong 5
+cưới, 5
+chữ 22
+A 8
+dành 29
+nền 43
+điệu Waltz. Bộ 5
+cánh 17
+xử 42
+liệu 24
+Pháp 16
+voan 5
+tuyn 10
+bay 51
+nhẹ 14
+bổng 8
+chuyển. 5
+di 50
+ngực 9
+sâu 30
+khoét 5
+eo, 5
+lưng 7
+hở 5
+toàn 48
+đắp 10
+vải 8
+suốt.
+Mẫu 5
+kỳ 55
+lúc 48
+nhất, 25
+phong 38
+mang 54
+táo 7
+đuôi 5
+bạo. 5
+kèm 10
+choàng 5
+dài 21
+ba 91
+mét, 8
+thêu 10
+nghìn 27
+mảnh 13
+sequin, 5
+pha 7
+Thiết 5
+lê. 5
+tay 109
+thiện 28
+260 7
+giờ. 5
+cổ 46
+xẻ 5
+V 5
+bo 5
+suốt, 5
+họa 10
+tiết 44
+xứng 6
+hoa 50
+nhấn 11
+leo 13
+hút 38
+520 5
+váy. Để 5
+giờ, 11
+thợ 5
+tám 26
+kinh 91
+cắt 9
+lâu 33
+may, 5
+kết.
+
+
+
+Phương 5
+Marcin 6
+Miller.
+
+
+Phương 5
+1990. 6
+Cô 63
+đoạt 15
+giải 170
+vàng 12
+Siêu 12
+Người 38
+2012. 6
+đẹp 98
+như: 8
+phim 12
+13 18
+nhân, 27
+tù 8
+Khi 47
+Âm 6
+tình 143
+mưu 6
+giày 12
+gót 6
+nhọn, 9
+Chung 12
+cư 17
+ma... 6
+Nữ 5
+MC 13
+hôn 59
+Ba 59
+Lan 19
+hiểu. 5
+mộ 20
+ngưỡng 8
+chồng 34
+lai 29
+lối 17
+sống 100
+thành. 7
+chân 47
+cả 153
+bè 12
+đãi 6
+HCM.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phương 6
+mèo
+
+
+
+
+
+
+Phương 6
+đàn 65
+mèo 7
+HCM.
+ 5
+
+Ý 5
+Ly
+
+
+ 5
+(trái) và 5
+
+
+
+
+
+Trump 5
+Macron 13
+cây 28
+trồng 12
+sồi 25
+cỏ 15
+bãi 30
+4/2018. 5
+hôm 66
+AFP.
+
+
+Truyền 5
+8/6 10
+Emmanuel 8
+lời 56
+tặng 22
+Trump 19
+Donald 11
+chuyến 36
+thăm 22
+chết 10
+4/2018 8
+gian 78
+dịch.
+Cây 5
+ly 90
+rừng 5
+khu 101
+Belleau 5
+nơi 75
+Wood, 5
+binh 5
+mạng 43
+thiệt 22
+Thế 29
+nhằm 62
+I, 5
+tượng 23
+hệ 54
+trưng 20
+bền 12
+chặt 18
+giữa 99
+nước. 11
+biến 27
+Cây 10
+mất 50
+dấy 5
+trồng, 5
+suy 16
+nhiên, 75
+đoán.
+Tuy 5
+tin 105
+ngăn 14
+Nông 9
+chặn 13
+lan 18
+lây 7
+vật 45
+Mỹ. 5
+nước 127
+năm, 46
+năm.
+Macron 5
+hơn 196
+dự 121
+phòng, 5
+trạng 35
+sao.
+Huyền 5
+Lê 45
+RT) 5
+
+
+ETNews 4
+nguồn 31
+cận 15
+biết, 34
+Note10 28
+Galaxy 36
+10/8 4
+kệ. 4
+ngoái, 12
+Note9 4
+24/8.
+
+
+
+Bản 4
+9/8 4
+dựng 26
+phải) 6
+(bên 8
+Pro 8
+trái) 4
+đồn. 4
+dựa 38
+phablet 4
+OnLeaks.
+
+
+Bên 4
+cạnh 87
+Samsung 14
+thể: 4
+màn 27
+inch 4
+6,28 4
+kích 8
+6,75 4
+thước 8
+inch, 4
+cấu 16
+(trái) 9
+Cả 21
+tràn 15
+5G. 16
+viền 4
+camera 18
+Infinity-O 4
+nằm 44
+giữa.
+Tương 4
+phiên 24
+S10, 4
+bốn 39
+ống 25
+kính, 4
+RAM 8
+tối 18
+12 20
+GB. 8
+kính 16
+8 19
+sạc 8
+nhanh 32
+45W, 4
+thay 39
+tốc 13
+đồn 7
+đó.
+Một 4
+100W 4
+4K, 4
+chạy 258
+gần 76
+chip 8
+9820 4
+Exynos 4
+Snapdragon 4
+855 4
+tùy 17
+thị 69
+cụm 10
+kiểu 16
+đều 77
+4.300 4
+mAh. 4
+lần 99
+ra, 26
+Ngoài 15
+loại 127
+cổng 18
+cắm 9
+tai 17
+nghe 12
+3,5mm 4
+mình, 21
+smartphone 7
+pin 4
+bấm 6
+(tăng/giảm 4
+âm 13
+lượng, 8
+Home, 4
+Bixby) 4
+.
+Bảo 4
+lực. 6
+Lâm 17
+GSM 4
+(theo 15
+Arena)
+
+
+ 4
+viễn 20
+
+
+Huawei 4
+giới 104
+chung 77
+châu 79
+Á 43
+sách 22
+riêng. 10
+đen, 5
+ty 78
+Quốc 131
+đoán 10
+tranh 51
+mặt, 6
+5G.
+
+
+
+Nhiều 4
+bắt 63
+hoạch 19
+SCMP.
+
+
+Từ 4
+hãng 34
+lâu, 7
+Samsung, 4
+Nokia 24
+Ericsson 12
+đánh 52
+khó 46
+Huawei 43
+lắp 21
+luôn 39
+vận 52
+rẻ 8
+Trước 8
+hơn. 22
+cấm 31
+vận, 4
+khá 23
+xây 35
+Markit, 4
+IHS 4
+2018, 23
+38 6
+so 52
+Ericsson.
+Một 4
+giá, 6
+chuyên 29
+ưu 9
+(R&D). 4
+tư 30
+15 39
+R&D, 4
+USD 12
+gấp 22
+đôi 48
+(9 4
+USD), 4
+Daily. 4
+China 4
+khổng 27
+lồ 21
+tuyến 7
+thấp 21
+hơn", 6
+Subramanian 4
+Venkatraman, 4
+tích 78
+MTN 4
+Consulting 4
+(Mỹ), 4
+Arizona 4
+xét.
+Tuy 4
+nhảy 11
+cấm, 4
+Chia 6
+sẻ 55
+Zdnet, 4
+chìa 7
+họ 92
+khóa 13
+xuất 92
+hồ 26
+bị, 4
+sơ 18
+trước.
+"5G 4
+thập 4
+hoãn 5
+Nhật 19
+Bản, 13
+Hàn 16
+chúng 81
+Quốc, 28
+nhìn 14
+Nam, 22
+Malaysia, 4
+Philippines, 9
+Indonesia, 7
+Thái 36
+Singapore", 4
+Sahala, 8
+Kai 4
+Giám 13
+Bình 48
+vực 48
+mảng 11
+chia 82
+5G 12
+sẻ.
+Theo 4
+phẩm 41
+tốt 66
+hơn, 12
+thủ. 8
+"Chúng 8
+thử 13
+quốc 149
+Tôi 38
+nghĩ 31
+phán 8
+đàm 4
+cả, 4
+bảo 30
+cậy 5
+mật. 4
+Hiệu 4
+suất 28
+hạn 45
+Sahala 4
+trọng", 4
+phím 8
+biết.
+Erik 4
+Internet 4
+Kruse, 4
+Things 4
+of 7
+phí, 4
+Ericsson, 4
+Tuy 58
+cậy. 4
+Điển 4
+Thụy 7
+hoạch.
+Steve 4
+Cheng, 4
+Quanta 4
+Chủ 20
+(trụ 4
+Computer 4
+Loan), 4
+Đài 9
+lệnh 13
+5G, 4
+khác. 11
+xảy 54
+phối 32
+gần, 4
+yếu 12
+tố, 4
+mỗi 60
+phủ 34
+hợp
+
+
+ 4
+nước.
+Bảo 4
+chương 42
+
+
+Một 7
+6/6 9
+truyền 32
+hỏi 33
+Twitter về 5
+huống 9
+máy 63
+bay: 5
+"Bạn 5
+nếu 41
+vịn 20
+ghế 65
+ngồi 95
+Câu 5
+không?". 5
+chóng 16
+trở 89
+tán 8
+bàn 13
+nổi, 5
+sôi 5
+100.000 5
+gia.
+Dylan 5
+"luật 5
+Connolly, 5
+bay. 5
+ngầm" 5
+vịn, 5
+"Ghế 5
+cửa 73
+sổ 7
+tường 5
+bức 31
+tận 13
+vào, 6
+duỗi 5
+hưởng 33
+Dylan 5
+chân", 5
+cãi 19
+viết.
+
+
+
+Nhiều 5
+chỗ 27
+giữa. 10
+Clipdesign.
+
+
+Crazy 5
+Paper 5
+khoản 23
+Diamond, 5
+khác, 15
+câu 46
+trên, 5
+trả 54
+Nhiều 12
+nhường 7
+thòi 8
+ít 42
+riêng 28
+tư. 5
+thoải 17
+mái 10
+hơn.
+Nikolaus 5
+Sennhauser, 5
+du 68
+Scotland 5
+lịch 38
+mua 40
+Lan. 8
+Bangkok, 5
+Quy 75
+anh 98
+"cuộc 10
+chiến" 5
+tỳ 5
+giành 29
+ghế.
+Tuy 5
+cựu 9
+bóng 27
+rổ 5
+"Người 5
+tôi", 6
+Ross 10
+viết. 5
+chơi 32
+thao, 16
+vịn. 10
+ai. 11
+Việc 13
+hơn.
+Một 5
+Tucker 5
+đặc 45
+cạnh. 5
+được, 9
+chắn 11
+chắc 20
+mặt 73
+khuỷu 10
+tay" 5
+suốt 28
+người to 5
+trình.
+
+
+
+Một 5
+lớn, 24
+nhiều. 5
+ai 24
+2017, 7
+cố 30
+London, 5
+Malaga, 5
+Tây 32
+Nha 9
+sư. 5
+mạt 5
+Whoop.
+
+
+Sự 5
+tụng 6
+đe 13
+dọa 8
+nhau. 32
+Sự 12
+căng 10
+thẳng 7
+mức 50
+phi 5
+đầu.
+Jacqueline 5
+suýt 5
+Marie, 5
+Jacqueline 5
+Mỹ, 11
+giờ 67
+nhiên 37
+trên. 10
+kẹt 27
+vọng 20
+hy 13
+yên 17
+bình, 14
+tránh 27
+đầu. 7
+chấp 23
+khiếu 5
+nại 5
+đòi 15
+lợi.
+
+
+
+Nhiều 5
+mái, 7
+lấn 7
+tay. 11
+CBC.
+
+
+Theo 5
+Daniel 5
+Baron, 5
+CEO 5
+Tokyo, 5
+phổ 18
+đẳng 5
+gian. 5
+Bên 8
+dụng để 5
+cuộc 141
+tầng, 5
+Một 27
+Scoop 5
+nhau 77
+tựa 5
+đó.
+
+
+
+Anh 5
+Minh 30
+Fox, 5
+Points 5
+Guy)	 5
+Hong 58
+Kong 47
+biểu 92
+Quốc
+
+
+
+
+
+
+Người 3
+nay. 22
+triệu' 3
+Video: 7
+Reuters.
+
+Đám 3
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Một 3
+đông 52
+nay 96
+xét 15
+lục 32
+xử. 3
+Dự 3
+phiếu 26
+12/6 6
+đấu 74
+Đây 27
+cùng. 3
+xem 22
+kể 21
+trao 19
+1997.
+Cuộc 3
+phần, 6
+ủng 38
+tôn 18
+giáo. 3
+Victoria 3
+khởi 26
+15h 5
+(16h 3
+Nội) 5
+Vịnh 3
+Causeway 6
+cứng 6
+sớm 24
+mặc 16
+hô 7
+khẩu 26
+"Loại 6
+hại", 3
+Quốc" 3
+"Phản 3
+ca 15
+nóng 51
+bức.
+"Có 3
+1.030.000 3
+diễu 3
+nay", 7
+đám 16
+tụ 9
+pháp 29
+Tuyên 3
+bố 67
+tràng 3
+pháo 3
+vũ, 3
+đông.
+Tuy 3
+người. Chính 3
+tình. 
+
+
+
+Một 3
+2.000 14
+con 193
+AFP.
+
+
+Một 3
+ẩu 3
+huy 10
+hỏa 3
+hoạn 7
+tâm 74
+bạo 4
+nghiêm 12
+trọng. 3
+trách 18
+7 15
+đêm 15
+nửa 13
+quyền.
+Các 3
+đẩy 26
+truy 12
+nã 6
+đả 6
+240.000 3
+ước 22
+độ, 7
+hiệp 12
+lục.
+Tuy 3
+nguy 26
+khiến 63
+lo 16
+ngại 14
+nghi 30
+minh 26
+Quốc. 11
+lục, 6
+hủy 28
+hoại 4
+phá 34
+tế 71
+này", 4
+Tommy 3
+Lo 3
+nói.
+
+
+
+Đám 3
+giơ 4
+AFP.
+
+
+Huyền 3
+AFP, 3
+SCMP) 5
+
+
+
+
+
+Đám 3
+Kong. 3
+AFP.
+
+
+Người 3
+xuống 26
+nỗ 13
+xử.
+Các 3
+kêu 15
+kiềm 3
+tình. 3
+Những 12
+500.000 6
+tòa 13
+gia.
+Đây 3
+2003 3
+thắt 7
+ninh 26
+bỏ.
+Dưới 3
+cái 39
+32 8
+C, 3
+đình 48
+trẻ 27
+hồi 50
+nhỏ 25
+xe 91
+hành. 3
+Phe 3
+nổi 72
+giáo.
+"Tôi 3
+lăn 5
+tranh", 3
+Lai, 3
+78 3
+nói. 10
+"Dù 8
+nhiêu 11
+đây, 25
+đạt 47
+quả. 3
+kháng 8
+Chúng 18
+cự 63
+hậu 96
+thuẫn".
+Đám 3
+thương 47
+đúc 3
+Bay 3
+Wanchai 3
+dừng 23
+trốn 6
+Kong.
+Sắc 3
+giản 10
+20 10
+hóa 59
+nước, 6
+độ.
+Tuy 3
+Quốc.
+Vũ 3
+Hoàng 15
+Reuters) 3
+
+
+
+
+
+Ngoại 3
+Venezuela 23
+Arreaza. 3
+Jorge 6
+đóng 47
+Arreaza 3
+Vancouver, 3
+quán 30
+Toronto, 3
+Montreal 3
+AFP.
+
+
+Ngoại 3
+đô 87
+Canada 29
+Ottawa.
+"Toàn 3
+ngoại 40
+giao 47
+sứ 26
+Ottawa. Chúng 3
+khôi 5
+ngoại", 3
+trưởng Arreaza cho 3
+"có 3
+Venezuela, 7
+hay.
+Theo 3
+lại" 3
+2/6 4
+Caracas 3
+visa 4
+do chính 3
+giao. 6
+Chrystia 4
+Freeland 5
+Nicolas 4
+bước 36
+Maduro 11
+biệt 22
+lĩnh 19
+Juan 7
+Guaido.
+Venezuela 3
+"không 6
+ánh 21
+thù 3
+địch 29
+Venezuela".
+Canada 3
+50 6
+Guaido 8
+lâm 4
+thời. Vài 3
+trước, 33
+Toronto 4
+mọi 54
+loạn 7
+hỗn 4
+này.
 Tổng 4
-1 3
-TNHH 1
-viên 1
-Một 1
-trực 3
-lề 2
-HCM, 1
-thuộc 2
-nói, 1
-cán 3
-là 7
-bộ 3
-diện 1
-ủy 3
-quản 1
-lý, 1
-Ban 2
-Cán 1
-sự 3
-Đảng 2
-một 3
-những 4
-trong 4
-cơ 2
-quan 1
-tham 1
-tác 3
-nhân 6
-mưu 1
-chứ 2
-không 7
-có 9
-quyết 6
-quyền 1
-định. 1
+nắm 6
+quân 15
+đội 91
+Nga, 7
+Cuba... 4
+rối 7
+soát 16
+đảo 28
+cầm 18
+4 32
+tuyên 19
+phe 4
+chịu 19
+trừng 4
+phạt.
+Huyền 3
+
+
+
+
+
+Tổng 2
+Lê (Theo AFP) 3
+Maduro. 2
+Reuters.
+
+
+"Tới 1
+6, 8
+giấy 6
+hạn. 1
+lựa 3
+chọn 45
+ngừng hoạt 1
+Venezuela. 1
+Quyết 2
+tức", 1
+ngay 26
+bố.
+Bà 1
+Toronto.
+Canada 1
+Guaido. Bà 1
+chống 22
+Vài 9
+Nicoslas 1
+phạt.
+Nguyễn 1
+AP) 1
+tây 12
+nhiệt 38
+
+
+Hôm 3
+miền 28
+tăng 67
+nhanh, 3
+nắng 50
+trời 18
+sớm. 6
+Tại 14
+7h 6
+30, 3
+13h 8
+xấp 8
+xỉ 6
+38, 7
+gay 10
+39 8
+gắt.
+Hầu 3
+khắp 13
+nóng. 9
+Nhiệt 5
+Tương 8
+Đô 3
+Dương, 7
+Lương 8
+(Nghệ 7
+An), 3
+Tĩnh) 6
+38; 3
+Hiếu, 3
+Con 3
+Cuông 3
+39. 3
+An) 6
+đo 3
+lều 3
+khí 23
+tượng, 15
+đất 43
+C.
+Cơ 3
+2-4 3
+10/6, 3
+lưu 24
+nóng, 13
+36-38 3
+C. 3
+Hòa 7
+Bình, 5
+Mường 6
+(Sơn 3
+La 3
+La), 3
+Lay 3
+(Điện 3
+Biên) 3
+gắt, 3
+đợt 8
+27-28.
+Dự 3
+kéo 12
+13/6. 3
+rãnh 4
+mây 3
+giông 20
+bắc 15
+mưa 28
+rào 6
+núi 60
+nơi, 6
+sáu 33
+14/6 6
+cần 69
+to 6
+lốc 7
+xoáy, 3
+gió 24
+giật, 3
+lũ 6
+quét, 4
+lở 6
+trượt 27
+tuần.
+
+
+
+Vận 3
+gia VnExpress 3
+Marathon 80
+bù 7
+Nhơn 60
+(Bình 3
+PV
+
+
+Miền 3
+Định). 3
+4/6 3
+Với 25
+xu 14
+hướng 48
+gắt 4
+36-39, 3
+độ. 3
+Thời 13
+17h.
+Sau 3
+10h 3
+35 5
+14/6, 3
+(Thanh 5
+Hóa, 5
+Nghệ 11
+giảm 32
+dần, 3
+An 9
+tuần.
+Tây 3
+11/6 3
+Nguyên 29
+mùa 38
+cường 12
+nơi. 11
+Từ 17
+xoáy 12
+lại, 9
+giật 7
+thủy 5
+mạnh.
+Theo 3
+gia, 3
+20/6, 3
+11 17
+0,5-1 3
+xỉ. 3
+Nửa 4
+6/2019, 3
+đới 4
+thuận 12
+Đông. 4
+đông, 1
+
+
+Vùng 1
+1.500 1
+m 13
+khối 1
+Bộ. 1
+Tỉnh 1
+Quảng 28
+chiều 19
+Miền 1
+gió. 1
+vùng 39
+oi 2
+31-34.
+Cơ 1
+phối, 1
+át, 1
+5/6, 4
+tăng, 1
+C 1
+(35 1
+lên).
+Kiểu 1
+mưa, 1
+tiết đêm 1
+7/6. 5
+mạnh, 7
+đi, 6
+sau.
+
+
+
+Trẻ 1
+em 42
+tắm 1
+kênh 3
+Phú 5
+nhiệt. 1
+Đắc 3
+Thành
+
+
+Miền 1
+ảnh 51
+dao 19
+Đồng 16
+33-36 1
+Bình) 4
+(Quảng 5
+Hới 1
+độ; 1
+37 2
+(Huế), 1
+Tam 7
+Kỳ 4
+Nam), 3
+Ngãi), 1
+Tơ 1
+(Phú 1
+Yên) 1
+36 5
+C.
+Dự 1
+tới, 5
+3-5 4
+Trung, 12
+thậm 16
+tuần, 4
+chí 22
+sau. 1
+Vinh 29
+29 1
+C.
+Tây 1
+Nam Bộ 1
+dần 3
+Nguyên, 1
+lên, 1
+HCM, 5
+Bộ.
+Từ 1
+tối, 1
+cơn 9
+lốc, 1
+sét 1
+30-33, 1
+lạnh 4
+31-34.
+Nhận 1
+nén 1
+giông, 1
+3-4 1
+to, 1
+đất, 14
+sạt 1
+ngập 6
+trũng.
+Miền 1
+úng 1
+2-3 1
+(trên 1
+rộng, 1
+C). 1
+
+
+MC 3
+diễn 38
+Liêu 15
+Trinh 24
+Đăng 5
+Khoa, 3
+1990, 3
+kém 10
+Buổi 6
+mẹ, 8
+góp 76
+bè, 3
+hôn.
+
+
+Bạn 3
+Trinh.
+
+
+
+Liêu 3
+trước. 3
+lạc 7
+gái 80
+mời. 3
+Duy, 3
+Như, 3
+Xù 3
+Trinh. 3
+kiện, 3
+khóc 3
+ba.
+Liêu 3
+bó 18
+thuận. 3
+bạn. 3
+quen 28
+xa, 12
+sắp 23
+lịch. 6
+cảm, 5
+bức, 1
+lòng 12
+giống 38
+hai. 11
+chính, 9
+"Tôi 24
+đình, 12
+mẹ 58
+riêng", 3
+sẻ.
+
+
+
+Liêu 3
+hôn
+
+
+Sau 3
+hôn, 5
+năm. 11
+ấm 6
+nước. 
+Liêu 3
+1988, 3
+Én 3
+Vàng 3
+2016. 5
+thơ, 3
+tản 3
+văn: 3
+0 3
+Tự 8
+Nợ 3
+biệt, 10
+Cúc 3
+mi... 3
+Già 3
+sit-com: 3
+néo 3
+đứt 3
+dây, 3
+Lật 3
+thi 96
+showbiz... 3
+Ơn 3
+cậu 9
+giời 9
+2017.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liêu 3
+Trấn 6
+Trinh, 6
+'Ơn 6
+2017'.
+
+Tam 3
+2017'
+
+
+
+
+
+
+Liêu 3
+
+
+Chồng 1
+Lan, 16
+1985, 4
+HCM. Cả 1
+nhà. 4
+khám 19
+lai, 2
+kiếm.
+
+
+
+Phương 1
+hảo 4
+Âu. 
+
+
 "Anh 1
-điều 5
-động 5
-làm 6
-mức 1
-lương 1
-tương 1
-phó 1
-đương 1
-sở", 1
+kiên 2
+đạt, 1
+nhẫn 3
+tôi. 4
+vậy 15
+Để 11
+dễ 15
+Bạn 15
+dàng. 1
+chó, 1
+chụp 8
 nói.
+Hiện 1
+cưới. 1
+15/6. 1
+135 1
+m2 1
+HCM.  
+
+Phương 1
+Hiện 5
+song 16
+ngữ 16
+Anh. 1
+
+Tâm 1
 
 
 
-Ông 1
-định 3
-sáng 2
-nay. 1
-Ảnh: 1
-Hữu 1
-Công.
 
 
+Chữ 3
+Giao
+
+
+ 1
+D-Day. 3
+Portsmouth, 3
+AFP.
+
+
+Tổng 3
+Anh, 8
+75 3
+kỷ 49
+vun 3
+đổ 34
+Normandy 3
+(D-Day) 3
+D-Day 6
+"khẳng 3
+khứ 3
+II. 3
+vô 55
+quên".
+15 3
+lãng 11
+giới, 5
+Thủ 11
+tướng 45
+Angela 3
+Merkel, 3
+mực 11
+xanh 5
+giấy.
+Bức 3
+giấy. 3
+trí 41
+tức 11
+chú 10
+hội. 12
+"Đoán 3
+tất 31
+bản", 3
+Abell, 3
+Stig 3
+tạp 3
+Literary 3
+Times 3
+Supplement, 3
+Twitter.
+Một 3
+viết 20
+kín 13
+kiểu" 3
+"một 5
+vậy.
+D-Day 3
+Normandy, 3
+xít 6
+6/6/1944, 3
+"Trận 3
+Các 42
+Pháp". 3
+II, 3
+sụp 7
+ngoặt 3
+chấm 6
+dứt 7
+tranh.
+Vũ 3
+Business 3
+Insider) 3
+
+
+
+
+
+Phó 3
+Phạm 17
+Normady 3
+Minh. 3
+Bảo 24
+trực, 9
+rẽ. 3
+ta 67
+tránh, 3
+trực 42
+nhất", 3
+Minh, 3
+thách 13
+thức 28
+trúng 24
+uỷ 7
+7/1944 3
+Trung.
+
+
+"Khi 3
+Hợp 30
+Quốc. 
+Lãnh 3
+khẳng 10
+HĐBA 42
+nhất. 8
+10 52
+kỳ.
+Phó 3
+khác. "Đây 3
+kỹ 30
+lưỡng 3
+xác", 3
+ủy 16
+7/6 9
+nói.
+Việt 3
+(HĐBA) 6
+2020-2021 5
+1/1/2020.
+Phó 5
+192/193. Với 3
+của Kuwait từ 3
+quả 35
+coi 15
+giới. Việc 3
+nâng 7
+trương 13
+tầm 8
+vai 24
+trò 31
+dắt 6
+hoà 15
+tế. 
+Do 3
+trọng, 5
+liệt 5
+biết. 3
+HĐBA, 7
+vòng 58
+nhóm, 5
+140 3
+đổi 36
+viên. 8
+2/3 3
+thiết, 3
+Có 28
+HĐBA.
+Việt 3
+giai 11
+đoạn 20
+2008-2009. 3
+kỳ, 6
+Nam", 3
+này. "Điều 3
+qua, 26
+nói.
+Về 3
+ổn 25
+mong 13
+HĐBA. 
+Với 3
+xung 19
+bom 3
+mìn. 3
+đột, 3
+Ưu 3
+phương 37
+tế.
+"Giải 3
+tế, 18
+mục 41
+đích 58
+HĐBA", 3
+2020, 3
+mạnh.
+Trong 3
+đảm 10
+luân 8
+ASEAN, 3
+vực, 4
+vốn 14
+tâm. "Năm 3
+2020 8
+bận 15
+rộn 11
+khăn. 3
+làm", 3
+
+
+
+
+
+Hội 1
+NAOC
+
+
+Tại 1
+vừa 28
+New 6
+York, 3
+Mỹ, Việt 1
+(HĐBA) nhiệm 1
+2021 5
+192/193. Kết 1
+11h10 1
+(giờ 1
+York), 1
+tiên.
+Việt 1
+Nam là một 1
+là đại 1
+Dương. Với 1
+Kuwait 3
+1/1/2020. 
+Ngay 1
+trưởng Lê 1
+Hoài 19
+Trung, trưởng 1
+gỡ 3
+tỏ 15
+cam 6
+ơn 2
+cương 2
+70% 3
+HĐBA.
 Theo 1
-thành 3
-phố, 2
-cụ 1
-bộ, 1
-thể 2
-nhiệm 4
-vụ 6
-đối 1
-mới 1
-với 3
-đã 5
-Hải, 1
-tuân 1
-thủ 1
-đúng 1
-trình 6
-quy 2
-5 1
-và 10
-bước 1
-căn 2
-vào 2
-cứ 2
-nghiệp 2
-chuyên 4
-môn. 1
-xem 2
-Quá 1
-xét, 2
-đạo 2
-lãnh 3
-phố 1
-nhiều 5
-lần 1
-gỡ, 1
-gặp 2
-lắng 1
-ý 1
-nghe 1
-kiến 1
-nguyện 1
-vọng 3
-như 1
-cũng 1
-nhu 1
-cầu 1
-thực 2
-địa 1
-phương.
-"Anh 1
-tài 3
-chính, 2
-kế 1
-toán, 1
-thuế 1
-từng 1
-Trưởng 1
-Phòng 1
-Kinh 4
-nên 1
-phụ 2
-trách 2
-doanh 2
-phù 3
-hợp. 1
-Hiện, 1
-này 2
-người 3
-môn 3
-nắm 2
-kỹ 2
-thuật, 1
-xây 2
-doanh", 1
-nói.
-"Trong 1
-kiểm 1
-điểm, 1
-anh 1
-bày 1
-tỏ 1
-sẵn 2
-sàng 2
-ở 2
-huyện 2
-Cần 2
-Giờ 2
-nhưng 1
-sở 2
-vì 4
-đủ 1
-các 5
-tịch", 1
-thêm.
-Chiều 1
-nay, 2
-giờ 1
-vài 1
-sau 1
-khi 3
-động, 1
-xin 4
-nộp 1
-Thường 2
-lên 1
-ủy, 3
-Gòn.
-Trong 1
-đơn, 1
-vị 1
-trí 1
-vừa 1
-hợp 2
-do 1
-độ 3
-ngành 2
-dựng, 1
-năng 1
-lực, 1
-đào 1
-tạo. 1
-Nếu 1
-miễn 1
-cưỡng 1
-trái 1
-trường 1
-tâm 3
-huyết 1
-gây 1
-ra 1
-hậu 1
-quả 1
-nghiêm 2
-trọng; 1
-sẽ 1
-thương 1
-tổn 1
-đến 2
+phiếu (tương 1
+128, 1
+đương 7
+129 1
+phiếu), 1
+truất 1
+ngôn 9
+Quốc.
+Người 1
+Thu 1
+Hằng 1
+cực 13
+dung, 1
+sự, 3
+lực, 8
+truyền, 1
+quan; 1
+vấn, 3
+tế.
+HĐBA 1
+2009 1
+2008 4
+7/2008 1
+10/2009.
+Là 1
+6 15
+tế. 9
+doạ 3
+Hiến 2
+lược, 1
+biện 1
+tiến 30
+41 11
+42, 1
+tế.
+Anh 1
+Ngọc 38
+Bí 4
+thư, 5
+Nguyễn 46
+Trọng. 1
+bày 13
+điệp 10
+dịp Việt 1
+7/6, 20
+Trọng gửi 1
+hộ, 1
+tín 2
+giao. 
+Tổng 1
+ghi 22
+đáng 24
+thế, 16
 uy 1
-tín 1
-tiền 1
-Đảng, 1
-bạc, 1
-sản 1
-dân. 1
-chờ 1
+tế.
+"Việc 1
+nề, 3
+vinh 3
+phó", 1
+Nam nhấn 1
+mạnh.
+Tổng 1
+nước bày 1
+tưởng 22
+HĐBA. 1
+Ông 5
+bạn, 1
+vững 8
+tuân 9
+triển.
+Tại 1
+họp 13
+(tối 1
+Nội), 3
+192/193. 3
+1/1/2020.
+Với 1
+hòa 7
+2009.
+Với 1
+"Đối 1
+bình bền 1
+vững", 1
+đề xuất, 1
+dựng vào 1
+an ninh 1
+triển.
+Anh 1
+
+
+Theo 6
+Japan 6
+TTXVN.
+
+
 Trong 1
-giải 1
-chế 1
-thôi 1
-sớm 1
-10 1
-năm, 1
-nghỉ 1
-hai 1
-tháng 3
-hưởng 1
-lương, 1
-bắt 1
-đầu 1
-ngày 2
-5/6.
+Times, 3
+Tokyo 3
+(Nhật 3
+Bản) 3
+Taguchi 21
+ngoại. 3
+sát, 3
+hứa 3
+sa 36
+nữa". 3
+chúng. 3
+quỳ 10
+dập 11
+lỗi 13
+chứng 33
+người.
+
+
+
+Nam 3
+gối, 3
+sa. 3
+Kyodo.
+
+
+Ngày 3
+22/5, 3
+Rena 3
+Komine 3
+tàng 27
+trữ 3
+16 3
+giam, 3
+(khoảng 5
+1,2 3
+đồng). 3
+thừa 6
+sát. 5
+Kat-Tun 6
+sĩ.
+
+
+
+Ca 3
+Bản 3
+Junnosuke.
+
+
+Taguchi 3
+nhạc 6
+Johnny 3
+& 5
+Associates. 3
+Nhóm 16
+2006 3
+nam. 3
+Tên 6
+nhóm: 3
+Kamenashi 3
+Kazuya, 3
+Akanishi 3
+Jin, 3
+Junnosuke, 3
+Tanaka 3
+Koki, 3
+Ueda 3
+Tatsuya 3
+Nakamaru 3
+Yuuchi. 3
+2016, 3
+Universal 3
+Music 3
+đuổi 19
+ca.
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taguchi 3
+Junnosuke 6
+lỗi
+
+
+
+
+
+
+Taguchi 3
+lỗi.
+
+Đạt 3
+Times) 3
+
+
+Là 3
+VnExpress 109
+42km 6
+giày, 6
+Trần 7
+Hữu 15
+Hoanh 15
+sắc 21
+VĐV 9
+lứa 14
+30. 3
+Runner 3
+hâm 3
+Sinh 3
+nhỏ, 3
+trần 3
+cát. 9
+Vì 25
+thói 7
+quen.
+
+
+
+Hữu 3
+quê 10
+km 71
+phóng 5
+phút 19
+giây. 3
+Phước 12
+Tuấn
+
+
+Theo 6
+runner 41
+1994, 3
+đẹp, 9
+hợp. 5
+trần, 3
+đoạn, 7
+"Khi 3
+Nại 3
+chừng 5
+kilomet, 7
+đá, 12
+đau 14
+chân, 6
+may 42
+xấu 16
+chứ 9
+nhiều", 3
+kể.
+Trước 3
+giải, 7
+khăn 14
+Hoanh chinh 3
+anh, 4
+kiến, 11
+kilomet 3
+cuối. 7
+gian, 18
+hài 5
+lòng", 3
+thêm.
+Phạm 3
+"Chân 6
+giải. 3
+trần" 3
+trần", 3
+đất.
+Runner 3
+10km 6
+2019. 12
+rồi, 3
+giác 3
+do, 4
+nhàng 6
+thoát", 3
+sẻ.
+
+
+
+Quốc 3
+nghỉ 15
+ngơi 3
+Việt, 3
+phẳng, 3
+đất. 6
+Thậm 9
+chí, 7
+(PB 3
+Personal 3
+Best) 3
+Việt. 3
+Giờ 6
+kể", 3
+thêm.  
+Quốc 3
+THPT 6
+Viết 5
+Xuân, 9
+Đồng. 3
+cân. 3
+cữ 3
+chạy, 3
+đấu, 14
+đó. 13
+cú 11
+hích 3
+Marathon.
+"Qua 3
+rút 11
+bài 13
+mình", 3
+bộc 3
+bạch. 3
+"Để 3
+42 11
+marathon 11
+dưỡng. 3
+dinh 9
+đam 7
+bứt 3
+mê, 3
+cải 23
+tới".
+Phước 3
+Nhân 18
+Tuấn 3
+Đạt	 7
+
+
+Ngọc 4
+Thịnh 48
+VM 32
+2019 38
+half 4
+bib 8
+86414. 4
+23 10
+sẵn, và 4
+đua.
+Bạn 4
+nó 15
+Thịnh, 8
+Cảnh 24
+Linh, 8
+km. 12
+đua, 4
+1991, 4
+vạch 8
+ngờ. 4
+Chàng 8
+Đà 15
+gắng 7
+Nẵng 8
+gối 4
+Hành 4
+phấn 14
+quanh.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Màn 4
+Vnexpress 8
+2019
+
+
+
+
+
+Màn 4
+ấn 12
+niềm 15
+gốc 19
+hạnh 15
+"Anh 8
+phúc. 4
+món 17
+thật 23
+quà 10
+phúc", 4
+trai. 
+Ngọc 4
+Linh 63
+70 8
+Danang 4
+Runners 4
+rưỡi 5
+Biết 4
+mạn 8
+đáo, 4
+nhân. 8
+"Cô 4
+ý", 4
+mừng 20
+sẻ. 
+
+
+
+Cảnh 4
+vui 16
+cờ 7
+đồ 29
+ghé 4
+phượt 4
+việc.
+
+
+Hai 4
+10/2015, 4
+Chạy 4
+Ở 22
+Sapa 4
+vãn 4
+cảnh, 4
+cất 7
+đẹp. 6
+Đó 6
+trải 19
+nhớ 15
+lại.
+Không 4
+xúc 13
+qua. 9
+Cách 16
+nạn 14
+đèo 4
+Hải 17
+chiếc 35
+Vân. 4
+bồn 8
+phanh 4
+dốc 12
+tông 4
+văng 4
+ngã 4
+gầm 8
+gãy 4
+chân. 
+
+
+
+Cảnh 4
+2020. 
+
+
+Dù 4
+mắn 10
+thoát 10
+chết, 4
+nạn, 10
+bi 4
+thân. 4
+phục. 4
+1996 4
+Marathon.
+Cảnh 4
+lượt 18
+chinh 22
+21 12
+Nhơn. 4
+Màn 4
+quên 4
+uyên 4
+này.
+Nhân 4
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hoa 3
+văn
+
+
+
+
+
+
+Chương 3
+"Ánh 6
+đường" 3
+sinh.
+
+Sau 3
+giả, 3
+Khe 3
+Chữ 3
+(thuộc 3
+tiểu 3
+Trà 10
+Vân, 3
+My, 3
+Nam) 7
+khánh 3
+thành, 3
+chào 13
+mới.
+
+Tháng 3
+Tư, 9
+Quỹ 20
+trú 3
+tầng 11
+Chiến 10
+Phố 3
+Hồ 24
+Thầu, 3
+Su 3
+Phì, 3
+Giang. 3
+khỏe. 8
+Lếch 7
+Mông 7
+Hy 17
+Vọng 3
+1,9 3
+đây.
+
+
+
+ 3
+đường".
+
+
+
+Thông 3
+đồng.
+
+Dự 3
+
+Vân 3
+Chung
+
+ 3
+Lộc 7
+
+
+Sau 7
+thầy 5
+Park 18
+Hang-seo 5
+luỹ 5
+thêm 47
+điểm, 15
+5,2 5
+trang Football-rankings. 5
+4,5 5
+trận 90
+0,7 5
+thua 21
+thắng 41
+tâm, 5
+đá 16
+King's 5
+lưu.
+
+
+
+Quang 5
+á 5
+quân. 5
+Khoa.
+
+
+Dự 5
+Cup, 10
+7/2019, 5
+1.232 5
+bậc. 5
+Đội 5
+vượt 37
+Jordan 15
+97 5
+Á, 16
+FIFA. 
+Ở 5
+bốc 5
+World 20
+Cup 9
+FIFA 10
+2022 7
+Qatar 5
+17/7, 5
+7/2019. 5
+top 13
+16. 5
+tự, 8
+24 9
+17 11
+ba, 10
+25 18
+bốn. 5
+33, 5
+34 8
+nhất.
+40 5
+bảng, 5
+sao 14
+bảng. 5
+Được 5
+hai, 9
+Iraq, 5
+Uzbekistan, 10
+Syria, 10
+Lebanon, 10
+Oman, 10
+(hoặc 25
+Kyrgyzstan 5
+tròn 5
+Palestine). 5
+9/2019 5
+6/2020. 5
+Tám 5
+ba. 7
+sử.
+Phân 5
+HLV 5
+hai
+Nhóm 5
+Iran, 23
+1: 5
+Australia, 5
+UAE, 5
+Qatar, 5
+Ả-rập 5
+Quốc
+Nhóm 5
+Xê-út, 5
+2: Iraq, 5
+Kyrgyzstan, 5
+Palestine)
+Nhóm 5
+3: 5
+Jordan), 5
+Palestine 5
+Ấn 10
+Bahrain, 5
+Độ, 5
+Tajikistan, 5
+Triều 11
+Tiên, 5
+Loan
+Nhóm 5
+4: 5
+Myanmar, 5
+Turkmenistan, 5
+Kong, 5
+Afghanistan, 5
+Yemen, 5
+Maldives, 5
+Kuwait, 5
+Indonesia 7
+Singapore)
+Nhóm 5
+5: 5
+Singapore 17
+Indonesia), 5
+Nepal 5
+nhất
+Xuân 5
+
+
+Nếu 3
+Bình	 5
+Tập 9
+dị 21
+chuyện 41
+hóm 1
+hỉnh 1
+tái 19
+Curacao 5
+hiểm". Ông 1
+Vũ 8
+khoác 1
+thùng 16
+thình, 1
+quấn 1
+rằn, 1
+nghiêng 1
+nghiêng, 1
+chắp 3
+lưng, 1
+vẫy 1
+cúi 1
+nữa 3
+sân 39
+khấu. 
+Trong 1
+phút, 3
+chậm 4
+rãi, 1
+xưng 5
+“Qua”, 1
+quanh 22
+“anh 2
+chị 75
+em” 2
+mình.
+
+
+
 Ông 1
-50 1
-quê 1
-tuổi, 1
-Nội; 1
-thạc 1
-Hà 1
-sĩ 1
-Chính 1
-trị, 1
-tế, 1
-Cử 3
-Luật 1
-hội 1
-Xã 1
-học. 1
-Trước 2
-1, 2
-giữ 2
-trưởng 1
-phòng 1
-1; 1
-Bí 1
-thư 1
-phường 1
-Cầu 1
+kính. 1
+Tô 5
+Tân
+
+
+Ông 1
+thiền 1
+núi, 1
+hỏi, 5
+"tất 1
+nhất.
+“Qua 1
+cầu, 1
+phận 12
+thị, 4
+'người 1
+đoàn, 1
+em' 1
+việc, 9
+triệt 5
+nói.
 Ông 3
-Lãnh; 1
-Ủy 1
-ban 1
-Kiểm 1
-tra 1
-Quận 1
-1...
+này”, 1
+đầu, 14
+biệt. 8
+tạo, 3
+mình. 13
+"bí 1
+lược 8
+ông. 
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ông 1
-mảng 1
-đô 1
-3/2016. 1
-thị 1
-trạng 1
-tình 1
-lấn 1
-chiếm 1
-lòng 1
-trọng 1
-đường 3
-tại 1
-trung 1
-"lấy 1
-vỉa 2
-lại 1
-hè 2
-bộ" 1
-đi 1
-bằng 1
-đợt 1
-dẫn 1
-liên 1
-đoàn 1
-xuống 1
-phạt. 1
-xử 2
-Trật 1
-thời 1
-tự 1
-gian 1
-dài 1
-ổn 1
-tuyến 1
-định, 1
-gọn 1
-nhiên, 1
-gàng.
-Tuy 1
-8/1/2018 1
-bất 2
-ngờ 1
-"không 1
-gửi 2
-hiện 1
-hứa 1
-lời 1
-trước 1
-rằng 1
-dân". 1
-khó 2
-khăn 1
-quá 1
-đụng 1
-lý 1
-lợi 1
-to 1
-ích 1
-lớn 1
-nghìn 1
-hàng 1
-tỷ 1
-đồng 1
-bãi 1
-nhà 1
-xe, 1
-hàng, 1
-sạn, 1
-khách 1
-hộ 1
-tiền... 1
-mặt 1
-"và 1
-phận 1
-nhỏ 1
-sinh 1
-cộng 1
-đó".
-Bốn 1
-rút 1
-sau, 1
-"nhận 1
-viên, 1
-an 1
-thuyết 1
-ủi, 1
-phục 1
-đạo". 1
-cấp 1
-suy 1
-nghĩ 1
-mong 1
-tiếp 2
-muốn 1
-tục 2
-hiến, 1
-cống 1
-nơi 1
-nguy 1
-khăn, 1
-hiểm... 1
-nào 1
+Đặng 5
+xuất
+
+
+
+
+
+“Sau 1
+em, 4
+nhau, 10
+'đi 1
+thể".
+Việc 1
+ý, 3
+vắng 1
+2 25
+cà 4
+phê 4
+Nguyên.
+Cách 1
+ngày, 23
+Diệp 6
+Thảo 24
+tố 17
+thao 17
+túng 1
+bôi 3
+cướp 8
+nhọ 1
+Bà 2
+bệnh, 10
+chúng, 1
+qua.
+Tranh 1
+4/2015, 1
+(TNG) 1
+TNG. 2
+International 3
+(TNI) 1
+Singapore.
+Sau 1
+Thảo, 3
+máy, 8
+11/2015, 1
+TNG 11
+trị, 1
+IC.
+Ngày 1
+29/3/2016, 1
+Nguyen 1
+IC 2
+Vũ.
+Trong 1
+3/2016, 1
+TNHH 1
+Đầu 2
+Du 3
+này. Sau 1
+Sở 4
+tỉnh 53
+Kế 1
+Giấy 1
+Vũ. 
+Tháng 1
+7/2017, 1
+đệ 1
+Giang 4
+Tòa 5
+(nhà 1
+tế). 1
+G7 1
+bồi 1
+hại 14
+1.709 1
+(Công 1
+Giang).
+Tháng 1
+Thảo.
+Ngày 1
+7/2/2018, 1
+Cấp 5
+phúc 8
+xử, 1
+8/2017, 1
+thẩm.
+Trước 1
+này.
+Đầu 1
+mới) 1
+(thêm 1
+cướp, 1
+Thảo.
+Đã 1
+dấu. 1
+17/11/2015, 1
+ràng.
+Thi 1
+Tú	 1
+
+
+Ngày 7
+Liêm, 3
+Bùi 3
+Chức 18
+(điều 3
+dưỡng 12
+27 3
+sản.
+Chức 3
+khai, 3
+1/6, 5
+Ngạc 3
+phường 3
+đồng. 19
+Số 5
+xài 3
+nợ 15
+hết.
+Ngày 3
+thiếu 11
+nảy 5
+tiện 5
+này.
+
+
+
+Trưởng 3
+Liêm 3
+tá 3
+Thượng 5
+Hùng 29
+(áo 3
+xanh) 3
+Y. 3
+Hưng.
+
+
+Chức 3
+mũ, 3
+người, 18
+gã 9
+đợi 9
+tối. 3
+19h 3
+Chức. 3
+ăn 56
+cơm, 3
+giả 12
+vờ 3
+chuộc 3
+xe.
+Anh 3
+xách 7
+đâm 3
+tiệm 6
+túi. 3
+giằng 3
+co 5
+tích.
+Cô 3
+lại. 8
+xúm 3
+Lúc 8
+kề 3
+ngủ 5
+2.
+Khi 3
+500 8
+ôtô 3
+đi. 3
+đạc 3
+ném 3
+cận.
+Một 3
+mật 5
+trinh 3
+nhà, 9
+Chức, 3
+tin. 3
+khống 8
+9h30 3
+Giàng 14
+Lử 14
+Seo 14
+(56 7
+m.
+"Nạn 3
+hang 20
+nghẽn 3
+hang, 3
+thấp", 3
+Viên 4
+Đình 6
+Hiệp, 4
+Trưởng 8
+nông 4
+Phát 7
+thôn 5
+Ma 4
+Si 4
+Cai 4
+Cai) 3
+(Lào 4
+nói.
+
+
+
+Nạn 3
+ngoài. 14
+Báo 4
+ập 3
+Lào 12
+Cai.
+
+
+Nhà 3
+phương. 3
+Hơn 3
+100 10
+trường.
+Ngày 3
+táng 3
+31/5, 4
+Dùng 8
+tháo 4
+bơm 8
+cuốn 6
+lấp 11
+phình 4
+hang. 4
+trong.
+Cửa 4
+nút 4
+trong. 4
+mưa. 3
+Lực 4
+6/6, 3
+cháy 2
+chữa 18
+
+
+Sáng 1
+Sảng 1
+Thần, 1
+Mản 2
+Thần.
+"Lượng 1
+nhiều, 6
+mấy 9
+chục 14
+Hiệp 1
+ra", 3
+nói.
+
+
+
+Các 1
+nạn. 1
+Cai
+
+
+Ngày 1
+nan 1
+này. 28
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thủ 3
+rác 48
+thải 54
+nhựa
+
+
+
+
+
+
+Video: 3
+Quỳnh
+
+Sáng 3
+Hoàn 40
+bờ 5
+Kiếm, 3
+Tài 9
+Môi 11
+UBND 11
+nhựa". 
+Phát 3
+"Lễ 3
+lễ, 6
+Phúc 6
+Xuân 19
+nhựa 21
+nhức 3
+nhối 3
+cầu. 3
+Mỗi 8
+bề 3
+Trái 3
+tấn 7
+nhựa, 15
+trôi 8
+dương. 3
+Rác 3
+hằng 12
+thái, 3
+sống, 3
+môi 16
+gia.
+
+
+
+Thủ 3
+nhựa. 3
+VGP
+
+
+Lãnh 3
+Chính 15
+nhựa; 9
+hình, 3
+thiểu, 3
+loại, 3
+thải.
+Ông 3
+hoan 6
+nghênh 3
+dân.
+Theo 3
+tướng, 3
+chế, 5
+tồn 5
+hoạt, 3
+nylon. 3
+bây 15
+thực, 3
+soát, 3
+tại, 7
+lành, 5
+vững.
+Lãnh 3
+rõ phương 3
+châm, 3
+"nhà 3
+ô 9
+nhiễm 21
+nhựa.
+"Phấn 3
+hàng, 5
+chợ, 5
+Cai), 1
+nói.
+Thủ 3
+2025, 3
+lẻ 7
+rà 3
+nghiệp; 3
+nhập 38
+khẩu, 3
+hủy; 3
+mới, 14
+cứu, 3
+ứng, 9
+hoàn.
+Phát 3
+phủ, 3
+nhựa...
+Cuối 3
+8/6, 2
+Gươm. 3
+Hóa) 2
+Thọ 10
+Cảng 6
+vừa chuyển 2
+(38 5
+Hàng 4
+Hoá) 2
+Quang, 2
+trật 4
+cộng.
+"Sau 2
+nói.
+
+
+
+Cảng 2
+sơ", 2
+Hoàng.
+
+
+Theo 2
+an, 6
+VJ247. Trong 2
+20h25 2
+lần; 3
+chiếu 12
+soi 12
+khách, 2
+(nhân 2
+tay, 3
+không) 2
+mâu 12
+thuẫn. 2
+vã, 2
+tự.
+Anh 2
+Chu 2
+Tâm 10
+can 6
+cảng 4
+người. 2
+quật 2
+ngã, 2
+còng 4
+việc.
+Tại 2
+đối, 2
+tác, 2
+vung 2
+va 14
+trán 2
+Cao 2
+Sơn, 2
+ninh, 2
+xước 2
+Cục 6
+da.
+Ngày 2
+lần", 3
+Đinh 2
+thời, 2
+tháng. 5
+theo, 2
+6/6/2020.
+Cục 2
+địa, 2
+không, 2
+tờ 8
+chẽ 6
+hiện, 6
+kịp 8
+buộc. 2
+
+
+Đến 2
+tả 25
+lợn 64
+trên.
+Tổng 2
+Phi 10
+53 2
+tỉnh, 2
+3.682 2
+2,2 2
+tấn) 2
+(gần 2
+130.000 2
+3.600 2
+đồng. 
+Ở 2
+chăn 8
+ra. Nằm 2
+Phi, ông 2
+Hoan 4
+(xã 4
+Phú, 2
+Kỳ, 2
+lo lắng 2
+mua.
+Theo 2
+Hoan, 2
+dù 17
+rẻ, 2
+lỗ 2
+lắc 2
+chối. 2
+"Giờ 2
+đành 2
+tư, 7
+rồi", 2
+sẻ, 4
+vắcxin 2
+lợn, nếu 2
+dõi 2
+lý.
+
+
+
+Một 2
+Thành
+
+
+Ông 2
+ra. 16
+357 2
+Võ 8
+trại 15
+4.000 4
+thịt, 4
+600 2
+nái 6
+3.000 8
+"Số 2
+con. 10
+thịt 8
+bán. Tôi 2
+20.000-30.000 2
+kg 15
+xoay 6
+nói.
+Mỗi 2
+trại. 2
+ngân 8
+vốn, 2
+vay 7
+nhận", 2
+hay.
+Để 2
+trại. Mỗi 2
+cám 2
+đậu 13
+km, 14
+phun 2
+khử 5
+trùng 6
+bánh 4
+vào. 4
+phiền 5
+phức 8
+mình. "Cách 2
+nói.
+Ở 2
+thiết", 2
+My 2
+Lộc, 2
+đao 2
+phương. Gia 2
+Dơn 2
+đẻ 2
+"Mất 2
+hủy. 4
+lợn, 2
+đói 2
+xóa 2
+nghèo 3
+đến", 2
+sẻ.
+
+
+
+Trang 2
+Tĩnh 4
+Hùng
+
+
+Tại 2
+Phi. 2
+Một, 2
+Xuyên 2
+Tĩnh, đến 2
+trăm 6
+Cẩm 9
+Hà. 2
+điêu 8
+cao, 4
+chuồng 2
+lỗ.
+Là 2
+Xuyên) 2
+Đoàn 8
+"mấy 2
+đen 2
+nọ".
+"Năm 2
+2016 12
+dính 10
+nuôi, 6
+2017 6
+rớt 4
+long 2
+mồm 2
+móng, 2
+bùng 2
+hay.
+Vừa 2
+phát", 2
+55 2
+"Nợ 2
+hết, 5
+ngoái 4
+tấn, 4
+gạc 2
+chất, 5
+sau", 2
+Đoàn, 2
+nói.
+Cũng 2
+Hồng 8
+Hà) 2
+(Lộc 2
+dịch. 4
+lam 2
+"chưa 2
+sốc" 2
+lợn.
+
+
+
+Ông 2
+tan 2
+buồn 5
+Hùng
+
+
+"Lợn 2
+bã 2
+súc 2
+giục 2
+trả, 2
+đâu 12
+Thạch 4
+dịch, 2
+lắng, 2
+nói.
+Nhiều 2
+ra. Trang 2
+Tân) 2
+chuồng, 2
+tuy 16
+tuột 2
+phanh.
+"Bình 2
+40.000 6
+hơi, 2
+28.000 2
+tin.
+Để 2
+tiền", 5
+trấn 2
+26.600 2
+Phương, 2
+lắng 5
+đàn, 2
+tắt 2
+
+
+
+
+
+Bài 2
+để.
+Đắc 2
+Twitter 4
+Burhan 4
+chúc 8
+Gafoor. 2
+Twitter.
+
+
+"Chúc 2
+Nam. 6
+tuyệt 5
+vời 2
+vụ", 2
+Gafoor 2
+Lý 8
+Hiển 4
+"Việt 2
+Long 6
+Campuchia". 2
+Trao 2
+Vivian 2
+Balakrishnan 2
+bối 5
+Đối 3
+thoại 11
+Campuchia, 2
+Shangri-La 2
+Nam.
+Việt 2
+tế. 
+Đoạn 2
+giới. 4
+video 7
+UN 2
+TV 4
+dậy 10
+Thứ 2
+vỗ 2
+đầu.
+Với 2
+2009.
+
+
+
+Thứ 2
+(ngoài 2
+2020-2021 tại 2
+TTXVN.
+
+
+Huyền 2
+
+
+
+
+
+Xiong 3
+Zhuogen 12
+Tuyết.
+
+
+Xiong 3
+tra. 5
+Quốc) 3
+Dầu 3
+Gò 3
+(Tây 3
+Trương 3
+Ninh) 3
+(19 5
+2/6. 3
+tuổi), 3
+Chị 8
+thuẫn 10
+5, 5
+nhân.
+Trưa 3
+bạc 12
+Tức 3
+giận, 3
+rể dùng 3
+45 4
+tuổi. 12
+gục 5
+xuống, 3
+hắn dùng 3
+vong.
+Sau 3
+tử 34
+án, 5
+gom 3
+giữ.
+Hồng 3
+Tuyết 3
+
+
+
+
+
+50.000 2
+lậu 2
+giữ. 2
+Phú.
+
+
+Đội 2
+Đồn 2
+Biên 2
+Vĩnh 18
+Ngươn 2
+(An 4
+(33 2
+Giang) 2
+casino, 2
+gò 2
+Tà 4
+7/6.
+Thủ 2
+Mâu 2
+Keo 2
+tra.
+Lực 2
+10.000 2
+Phương. 2
+cọc 2
+(40.000 2
+USD) 2
+Châu 4
+nộp.
+Phương 2
+Đốc 2
+Giang). 2
+casino 2
+Campuchia 2
+mượn 2
+50.000 2
+ăn.
+Theo 2
+Mít 2
+Ngân 2
+xuất, 4
+5.000 10
+USD, 2
+đồng, 19
+báo. 2
+phạm, 2
+tuỳ 2
+Vận 2
+hóa, 2
+tệ 3
+189 2
+2015.
+Cửu 2
+BLHS 4
+Long  2
+Tú 8
+(25 2
+Kiếm) 2
+sản, 4
+Trộm 2
+củng 4
+Tùng 8
+(28 4
+này.
+Liên 2
+thụ 5
+có, 5
+Trọng 12
+(31 2
+Quân 4
+Mai).
+
+
+
+Hai 2
+giữ.
+
+
+Theo 2
+trách, 2
+14h 2
+23/4, 2
+rủ 5
+vam 2
+án.
+Khoảng 2
+Tấn 2
+hầm 4
+xe. 2
+nhắm 2
+Honda 2
+này.
+Để 2
+SH 2
+đeo 4
+trang, 2
+mũ 2
+hiểm. 2
+vé, 6
+chốt 7
+vệ. 2
+barie.
+Sau 2
+bọn 2
+đồng.
+Tú 2
+thú. 2
+
+
+Sắp 3
+thi. 7
+băn 6
+Giai 3
+khoăn 6
+làm.
+Thật 3
+(ĐH) 3
+18, 3
+hầu 6
+mơ 16
+kia, 7
+chút.
+Những 3
+màng 5
+2000 3
+ĐH 54
+linh 7
+Đậu 3
+hoành 3
+tráng. 3
+lắm. 5
+(Campuchia), 2
+Học 13
+ổn. 
+Còn 3
+phải, 5
+dám 3
+doanh, 6
+thường. 3
+nấm, 3
+8, 3
+9 5
+học. 12
+ĐH. 9
+"học 3
+xong 19
+lương 14
+cao". 
+Rồi 3
+vàn 9
+dở 3
+do: 3
+muốn, 3
+ham 3
+"bốc 3
+bát 3
+họ" 3
+luôn... 3
+Muôn 3
+thêm, 3
+đỡ. 3
+Còn 15
+cõng 3
+thôi. 
+Khi 3
+ghế ĐH 3
+ảo 6
+mộng. 3
+Kiếm 5
+để: 3
+Hầu 5
+nghiệp. 8
+Ra 6
+phận.
+Và 3
+mọc 6
+ý. 5
+chút 3
+công. 8
+mắn. 5
+chán 5
+nước.
+Ra 3
+ngán 3
+rồi. 8
+lắm 8
+Đi 6
+là: 8
+Nay 3
+rồi? 3
+thôi: 3
+Rồi 3
+shipper, 3
+ăn, 7
+nhậu, 3
+cafe, 3
+vệ, 5
+xinh 11
+lái 19
+...  3
+trà 5
+Đủ 3
+đâu? 
+Khổ 3
+dạy. 3
+(ĐH, 3
+thạc 3
+sỹ). 3
+Mà 3
+khốn 3
+khổ 3
+à. 6
+Mấy 3
+đứa 12
+tiền nữa 3
+sung 21
+không? 
+Lâu 3
+sướng 3
+chu 3
+nghĩ, 5
+taxi, 3
+Luôn 3
+"mình 3
+oai, 3
+sạch 3
+cao". 3
+sẽ, 3
+nhàng, 3
+Nên 9
+chửi 5
+"Học 3
+đều. 3
+dốt 3
+ức... 3
+luôn.
+Tôi 3
+khuyên 9
+điều: 3
+miễn 3
+đức 3
+được.  3
+2018 10
+48 3
+(trong 7
+rằng: 3
+việc). 3
+ngành. 3
+Thống 3
+kê 7
+65% 3
+511.000 3
+ngành, 3
+thế" 3
+giỏi. 3
+Chưa 6
+số. 6
+yếu. 3
+kém, 3
+quá. 7
+Hãy 6
+mộng 8
+nhé. 11
+hãy 15
+sếp 3
+Muốn 9
+thuê. 3
+cafe 3
+bàn. 3
+cơm 3
+nhặt 3
+rau..... 3
+cầu: 3
+Kỹ 3
+cứng, 5
+ngữ, 3
+mền, 3
+học... 3
+đáp 22
+chưa?
+Các 3
+đâu. 5
+ấy. 3
+mãi 5
+thôi. 5
+giỏi 16
+Núi 3
+không? 9
+hòa, 3
+về, 3
+nhật, 3
+đô/tháng 3
+Xin 3
+thẳng, 3
+không?  3
+- 
+Trong 3
+luôn, 3
+lũy. 3
+nghề 28
+ổn. 9
+khá. 3
+thế.
+Tuy 3
+hơi 17
+vả 3
+vất 4
+định. 
+Thời 3
+ra: 3
+chợt 3
+nghiệp.
+Khi 3
+già 5
+vỡ 7
+làm, 5
+thôi: 
+Bạn 3
+khi: 6
+lũy 3
+ĐH.
+Nếu 3
+Hoặc 10
+Không 15
+nghề. 3
+động. 
+Thực 3
+do:
+1. 3
+ồ 3
+ạt, 3
+ngành 15
+nghề.
+2. 3
+thuyết 13
+hành.
+3. 3
+ràng 4
+Thích 3
+học.
+4. 3
+Cuối 5
+ĐH hãy 3
+năng. 3
+trau 3
+thức, 3
+dồi 3
+(Tiếng 3
+Đức. 3
+Nhật. 3
+Hàn...) 3
+tốt.
+Hãy 3
+Đừng 3
+thiết. 3
+đắn 5
+trẻ. 
+>> Chia 3
+đúng 20
+kiến  tại 7
+đây.
+Mai 5
+trang Ý 7
+Nam
+
+
+
+
+'Đại 3
+siêu' 
+
+
+
+
+
+
+Gian lận thi cử vì 3
+Và 7
+dạy 9
+'học 3
+quan' 
+
+
+ 3
+
+
+Không 2
+đốt 8
+chung. 2
+buồng 6
+lát 8
+nắp 2
+đỉnh 12
+pít 2
+tông. 2
+Cái 4
+định? 2
+ấy?
+Để 2
+Và, 2
+thuật 25
+toán 10
+nghiệm. 2
+hề 12
+nhỏ. Thí 2
+thuyết, 2
+khí. Những 2
+đó.
+>> 'Người 2
+buôn 7
+giàu'
+Tính 2
+(từ 2
+la 4
+gia). 2
+họ. 4
+gì, 6
+ráp 6
+cho.
+Họ 2
+ta. 2
+Thặng 2
+tựu 2
+xuất.
+Thay 2
+vì  2
+sợi 2
+dệt 32
+bông 2
+sợi, 2
+vậy. 6
+móc 6
+cùng, 10
+(tức 2
+đắt 5
+xám 12
+dụng).
+Chúng 2
+xuất. 2
+khoán 4
+thể. Nền 2
+thuần 2
+ngần 2
+được.
+>> Chừng 2
+mặc, 2
+nghèo
+Năm 2
+khủng 2
+1997, 2
+hoảng 2
+chấu 2
+nổ 2
+bong 4
+sản. 2
+Hản 2
+nề 2
+ngặt 2
+Bank 2
+ngèo 2
+hố. 2
+60 18
+sau, 2
+né 2
+lẽ 8
+hố 2
+lọt 16
+giàu. 3
+Dễ 2
+Hóa 2
+Toán 4
+cử. 2
+Nền 6
+đâu?
+Giáo 2
+chả 8
+hỏi. 2
+sao? 2
+Kinh 5
+ốc 8
+đinh 8
+khẩu?
+Cái 2
+Tính 2
+nào. 5
+(xác 2
+thấp), 2
+miếng 8
+tỷ?
+>> Chia 2
+đây.
+Lâm
+
+
+
+
+
+'Đánh 2
+thuế 6
+đất' 
+
+
+
+
+
+
+
+'Đỉnh 2
+cư' 
+
+
+ 2
+đai 8
+(MXH) 2
+loạt.
+Họ 2
+phiện 2
+3.5 2
+nghiện 2
+rồi. Một 2
+bạn. Theo 2
+2.500 2
+60% 2
+online. 2
+mạng. 
+- 2
+tải 8
+thả 2
+tim, 2
+like, 2
+ngạc 2
+cười, 4
+vui, 2
+sẻ. 2
+Ôi 2
+thế. 4
+luôn. 2
+Cháu 4
+Bác 2
+ạ. 2
+ạ...
+- 2
+ngay: 2
+thế? 2
+à? 2
+thuốc 6
+Cố 6
+tốt? 
+- 2
+ốm 4
+đau, 2
+mát 8
+buồn, 2
+thì: 2
+yêu. 4
+nỗi 3
+Em 4
+à?. 2
+quá! 2
+Thương 10
+đâu... 
+- 2
+Ai 6
+vui: 2
+Chúc 2
+ôi 2
+Xe 4
+quá...
+Yêu 2
+sao?
+Sự 2
+mù 2
+khen 4
+Khen 4
+được. 8
+dối 10
+trá. 2
+ảnh... 
+Ngoài 2
+tạo. 2
+lưỡi. 2
+Sống 2
+Ngồi 2
+gen 2
+bác, 2
+Thấy 4
+tỵ, 2
+vùi 2
+dập...
+Cả 2
+Ốm 2
+săp 2
+tật 3
+thèm 2
+hả 4
+thăm, 2
+hê 2
+thật.
+Ai 2
+lòng... 2
+xe, 8
+mói, 2
+đố 2
+kỵ, 2
+hực, 2
+hậm 2
+cay 2
+cú, 2
+kiểu.. 2
+Thật 2
+tởm. 2
+rồi...
+Nhiều 2
+cách: 2
+Đâm 2
+Hại 2
+vậy? 2
+chém, 2
+Án 2
+ghê 2
+rợn. 2
+chóc. 2
+Sẵn 2
+ngóc 2
+hạ 2
+tàn 2
+dã 2
+man. 
+Nguyên 2
+do:
+- 2
+Tiền 4
+bạc, 2
+hội... 2
+nhất.
+- 2
+tâm. 2
+Xem 4
+dục: 2
+đua 2
+tích: 2
+giết 4
+Như 2
+Cá 2
+gấy 2
+nhiệm. 2
+khen. 2
+100% 2
+háo 8
+trá, 2
+danh, 2
+đoạn... 2
+sống 
+- 2
+Trên 10
+đơn, 4
+ta.
+Có 2
+mệt 4
+mỏi, 2
+sợ 5
+sệt 2
+chưa? 2
+trăm, 2
+tri 2
+chăng 2
+kỷ. Phải 2
+trá?
+>> Chia 2
+theo dõi 2
+Nam
+
+
+
+
+
+Hai triệu người dễ dãi 2
+Khá 4
+Bảnh 2
+'Bảnh' 
+
+
+
+
+
+
+
+'2 2
+virus 2
+bẩn 2
+sôi' 
+
+
+ 2
+
+
+
+
+
+
+<img 10
+class="displayAfterResize" 84
+style="position:absolute" 64
+alt="Người 21
+quang 48
+Hoa 49
+Albania" 21
+src="https://i-giaitri.vnecdn.net/2019/06/09/1-1560046734_680x0.png" 3
+data-reference-id="26545059" 3
+class="left" 114
+tích, 2
+data-component-caption="&amp;lt;p&amp;gt;
+	Ngày 3
+Albania 21
+Cung 6
+Cindy 27
+Marina 12
+thủ, 6
+ngôi 18
+nhất.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Ngày 3
+nhất.
+
+
+
+
+
+<img 3
+data-reference-id="26545060" 3
+src="https://i-giaitri.vnecdn.net/2019/06/09/2-1560046734_680x0.jpg" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	Cindy 9
+1998 6
+Chicago 6
+Cha 6
+(Mỹ). 6
+thao. 6
+Mỹ.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Cindy 3
+Mỹ.
+
+
+
+
+
+<img 3
+data-reference-id="26545061" 3
+src="https://i-giaitri.vnecdn.net/2019/06/09/3-1560046734_680x0.jpg" 3
+Southern 6
+data-component-caption="&amp;lt;p&amp;gt;
+	Người 14
+California 6
+(Mỹ).
+
+
+
+
+
+<img 3
+(Mỹ).&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Người 3
+Tirana. 6
+src="https://i-giaitri.vnecdn.net/2019/06/09/4_680x0.jpg" 3
+14 10
+vóc 6
+dáng 8
+luyện 8
+thao.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Cindy 3
+data-reference-id="26545063" 3
+thao.
+
+
+
+
+
+<img 3
+src="https://i-giaitri.vnecdn.net/2019/06/09/5-1560046735_680x0.jpg" 3
+sánh 6
+ngang 14
+Secret.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Người 3
+Secret.
+
+
+
+
+
+<img 3
+Victoria’s 6
+data-reference-id="26545062" 3
+data-reference-id="26545064" 3
+chuyền. 6
+src="https://i-giaitri.vnecdn.net/2019/06/09/6-1560046735_680x0.jpg" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	Bên 3
+Albania. 6
+Mẹ 6
+chuyền 6
+Albania.
+
+
+
+
+
+<img 3
+Albania.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Bên 3
+data-reference-id="26545065" 3
+src="https://i-giaitri.vnecdn.net/2019/06/09/7-1560046735_680x0.jpg" 3
+Âu 6
+Miss 14
+Universe 6
+Trang 6
+&amp;lt;em&amp;gt;Angelopedia&amp;lt;/em&amp;gt; 3
+thi.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Cindy 3
+Angelopedia 3
+thi.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cindy 3
+Albania
+
+
+
+
+
+Các 3
+mẫu, 6
+2019.
+
+
+
+Đạt 3
+Angelopedia)	 3
+src="https://i-dulich.vnecdn.net/2019/05/31/2-1559268534_680x0.jpg" 3
+
+
+
+
+
+
+
+<img 3
+alt="Xứ 30
+thần 38
+'Aladdin' 30
+đèn 34
+thực" 30
+&amp;lt;em&amp;gt;Every 3
+data-component-caption="&amp;lt;p&amp;gt;
+	Theo 5
+Culture 6
+&amp;lt;/em&amp;gt;xứ 3
+Tư 30
+Iran 60
+dạng 12
+thiên 6
+UNESCO. 6
+Là 6
+mạc 30
+dãy 21
+tuyết 36
+trắng.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Phần 3
+Hồi 27
+Tư. 6
+Shi’ah 6
+đền 60
+Hilal 6
+ibn 6
+Ali 6
+Bidgol, 12
+Aran 12
+Isfahan, 6
+Iran. 30
+&amp;lt;em&amp;gt;Pinterest.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+href="javascript:;" 30
+class="icon_thumb_videophoto 30
+icon_thumb_zoom 30
+btn_icon_show_slide_show"><i 30
+class="ic 30
+ic-expand"></i></a>
+
+
+
+Theo 3
+Every 3
+trắng.
+
+Phần 3
+xứ 6
+Pinterest.
+
+
+
+
+
+
+<img 3
+data-reference-id="26521402" 3
+src="https://i-dulich.vnecdn.net/2019/05/31/5-1559268534_680x0.jpg" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Thủ 3
+Tehran&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Ôm 3
+sườn 8
+Alborz, 6
+Tehran 24
+200 6
+lớn. 9
+giáp 6
+mạc. 6
+Địa 6
+Khí 6
+mẻ, 6
+khô 6
+ráo 6
+khô.&amp;lt;br 3
+/&amp;gt;
+	Tehran 3
+data-reference-id="26521398" 3
+đáo 10
+thờ 36
+sử, 6
+lệ. 6
+tháp 6
+Tughrul, 6
+lửa 6
+Bahram, 6
+Azadi, 6
+Shahr 6
+Bibi 6
+Banu 6
+Dizin. 6
+&amp;lt;em&amp;gt;Travel 3
+ic-expand"></i></a>
+
+
+
+Thủ 3
+Earth.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+Tehran
+
+Ôm 3
+Travel 3
+khô.
+Tehran 3
+Earth.
+
+
+
+
+
+
+<img 3
+data-reference-id="26521400" 3
+src="https://i-dulich.vnecdn.net/2019/05/31/3-1559268534_680x0.jpg" 3
+Isfahan&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Được 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Thành 6
+mỹ 6
+1,5 6
+Isfahan 12
+dân. 6
+thảm, 12
+167 6
+rèn 10
+kim, 6
+gốm, 6
+9.000 6
+văn. 6
+xưởng 6
+Jahan, 6
+Naqsh-e 6
+UNESCO 18
+1979.&amp;lt;br 3
+/&amp;gt;
+	Hàng 3
+Di 6
+Lễ 6
+bá 6
+Jameh 6
+thuật. 6
+Mosque 6
+Isfahan. 12
+&amp;lt;em&amp;gt;Huffington 3
+trúc 18
+tráng 12
+unset;&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;"/>
+<a 6
+id=&amp;quot;eJOY__extension_root&amp;quot; 6
+ic-expand"></i></a>
+
+
+
+Thành 6
+Post.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;div 3
+Isfahan
+
+Được 3
+1979.
+Hàng 3
+Huffington 3
+Post.
+
+
+
+
+
+
+
+
+<img 3
+data-reference-id="26521401" 3
+src="https://i-dulich.vnecdn.net/2019/05/31/4-1559268534_680x0.jpg" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Di 6
+Pasargadae&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Được 3
+style=&amp;quot;all: 6
+TCN 6
+(tỉnh 6
+Pasargadae 6
+đế 24
+Fars, 6
+Achaemenid. 12
+Cyrus 18
+tộc 18
+sót 12
+điện, 6
+vườn 14
+lăng 6
+bật 13
+vua 18
+thuật, 12
+&amp;lt;em&amp;gt;Gravity.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+hoàng 6
+ic-expand"></i></a>
+
+
+
+Di 6
+nay), 6
+Gravity.
+
+
+
+
+
+
+<img 3
+Pasargadae
+
+Được 3
+data-reference-id="26521403" 3
+Shiraz&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mệnh 3
+Shiraz 12
+vĩ 6
+Zand 6
+src="https://i-dulich.vnecdn.net/2019/05/31/6-1559268536_680x0.jpg" 3
+(1747-1779). Nằm 6
+lũng 6
+thung 6
+nho 6
+chịu. 6
+hè 6
+ẩm 6
+triều 10
+rơi.&amp;lt;br 3
+/&amp;gt;
+	Trong 3
+al-Mulk 6
+Nasir 6
+vạn 6
+Shiraz. 6
+Kiến 6
+minh. 6
+tường, 6
+vồng 6
+màu. 6
+đầy 14
+&amp;lt;em&amp;gt;Dream 3
+One.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;div 3
+rơi.
+Trong 3
+Shiraz
+
+Mệnh 3
+hồng, 19
+One.
+
+
+
+
+
+
+
+
+<img 3
+Dream 3
+ướt 6
+data-reference-id="26521399" 3
+Persepolis&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Là 3
+src="https://i-dulich.vnecdn.net/2019/05/31/2-1559268783_680x0.jpg" 3
+1979, 6
+Persepolis 6
+Takhte 6
+Jamshid 6
+TCN, 6
+Achaemenid 6
+Trip.&amp;lt;/em&amp;gt;&amp;lt;br 3
+theo&amp;lt;em&amp;gt; Culture 3
+/&amp;gt;
+	Persepolis 3
+Darius 6
+I 8
+Xerxes. 6
+đế, 6
+cột 6
+Leo 6
+bậc 8
+thang 6
+tộc, 6
+khung 14
+hùng 6
+cổ. 6
+vĩ, 6
+&amp;lt;em&amp;gt;Odyssey 3
+Traveller.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+theo Culture 3
+Persepolis
+
+Là 3
+Trip.
+Persepolis 3
+Traveller.
+
+
+
+
+
+
+<img 3
+Odyssey 3
+data-reference-id="26521404" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Sa 3
+src="https://i-dulich.vnecdn.net/2019/05/31/7-1559268537_680x0.jpg" 3
+Maranjab&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Với 3
+cồn 6
+cát 6
+lồ, 6
+Maranjab 18
+muối 93
+Kashan 6
+khắc 13
+bắc, 6
+nghiệt, 6
+loài 6
+rắn, 6
+Tàn 6
+thằn 6
+lằn, 6
+bàng 6
+ưa 8
+muối.&amp;lt;br 3
+/&amp;gt;
+	Nằm 3
+muối. 12
+hòn 12
+lang 9
+chuyển, 6
+thang. 6
+tàu 6
+ngắm 10
+&amp;lt;em&amp;gt;CNN.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+Hòn 6
+ic-expand"></i></a>
+
+
+
+Sa 3
+muối.
+Nằm 3
+Maranjab
+
+Với 3
+CNN.
+
+
+
+
+
+
+<img 3
+src="https://i-dulich.vnecdn.net/2019/05/31/8-1559268537_680x0.jpg" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Bảo 3
+data-reference-id="26521405" 3
+thảm&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Theo 3
+&amp;lt;em&amp;gt;Apochi, &amp;lt;/em&amp;gt;nghề 3
+TCN. 6
+thảm 63
+Kilim, 6
+Ghaliche 6
+liệu. 6
+dạng, 6
+tấm 8
+huyền 6
+/&amp;gt;
+	Bảo 3
+150 10
+công.&amp;lt;br 3
+lãm 6
+11/2/1978 6
+&amp;lt;em&amp;gt;Irana 3
+Culture.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+ic-expand"></i></a>
+
+
+
+Bảo 3
+thảm
+
+Theo 3
 công.
-Nguyện 1
-nhận, 1
-chấp 1
-1. 1
+Bảo 3
+Irana 3
+Culture.
+
+
+
+
+
+
+<img 3
+src="https://i-dulich.vnecdn.net/2019/05/31/9-1559268537_680x0.jpg" 3
+data-reference-id="26521406" 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Ngọn 3
+Iran&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Nằm 3
+biển, 6
+Darbandar 12
+ngọn 12
+Damavand, 6
+(cánh 6
+Tư) 6
+Alborz. 6
+tuyết. 6
+Apochi, nghề 3
+ic-expand"></i></a>
+
+
+
+Ngọn 3
+Iran
+
+Nằm 3
+Aljazeera.
+
+
+
+
+
+
+<img 3
+src="https://i-dulich.vnecdn.net/2019/05/31/41961163160-5878a01154-b-1559268537_680x0.jpg" 3
+data-reference-id="26521407" 3
+&amp;lt;em&amp;gt;Aljazeera&amp;lt;/em&amp;gt;.&amp;lt;/p&amp;gt;"/>
+<a 3
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Chợ 3
+Tabriz&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Nằm 3
+dọc 6
+Tabriz 18
+lụa, 6
+chợ 22
+Đông, 6
+/&amp;gt;
+	Ở 3
+2010.&amp;lt;br 3
+mê 15
+Tabriz, 6
+cung, 6
+gạch 22
+đỏ. 6
+trà. 6
+vá, 6
+Ảnh:&amp;lt;em&amp;gt; Culture 3
+2010.
+Ở 3
+Trip.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;"/>
+<a 3
+Ảnh: Culture 3
+Trip.
+
+
+
+Lan 3
+ic-expand"></i></a>
+
+
+
+Chợ 3
+Tabriz
+
+Nằm 3
+Hương
+
+	
+
+ 3
+
+
+
+
+
+Thiem 4
+nện", 4
+"Hoàng 8
+Nadal 52
+tựng 4
+mệnh 4
+này.
+
+
+* 4
+Thiem: 4
+20h 4
+Thiem 32
+Nội.
+Theo 4
+Roland 24
+Garros 20
+ngoái.
+Sau 4
+tiết, 4
+vợt 16
+ngờ, 4
+nện 8
+Coupe 4
+des 4
+Mousquetaires.
+Thiem 4
+lật 4
+"thánh 4
+địa" 4
+Philippe-Chatrier 4
+Court 4
+Paris 8
+set 16
+6-4, 4
+6-3, 4
+thắng. 4
+6-2. "Đối 4
+giấc 4
+địch", 4
+tôi, 11
+hạt 4
+8-4 4
+sẻ.
+Nadal 4
+vương 4
+Mở 8
+Barcelona 8
+2019, 5
+này.
+
+
+
+Nadal 4
+ATP 4
+huỷ 4
+diệt 4
+Garros.  
+
+
+Trên 4
+Djokovic 12
+hiếm 12
+hoi 4
+bại 15
+Nadal. 4
+cản 6
+càn 4
+quét 4
+chín 6
+bại, 4
+thận 10
+ngoái.
+Lịch 4
+trọng: "Cũng 4
+hấp 11
+kết, 8
+"Vua" 4
+dẫn. 4
+ra".
+Mọi 4
+dồn 6
+mắt. 6
+92 4
+Paris, 8
+Grand 12
+Slam 4
+(6). 
+Nadal 4
+"King 4
+Rafa" 4
+kết.
+Không 4
+hoài 4
+lánh 4
+flash 4
+bục 4
+Rome 8
+cup 4
+Masters 4
+duyên 8
+Djokovic. 4
+"hủy 4
+diệt" 4
+Goffin 4
+ba) 4
+chấn 6
+tạp. 4
+hào. 4
+Lấy 4
+đích", 4
+thêm.
+Thiem 4
+Monte 4
+Carlo 4
+thấy, 8
+nện".
+
+
+
+Chiến 4
+đem 6
+tin.
+
+
+Có 4
+Thiêm 4
+lột 4
+Paris. 4
+Gael 4
+Monfils 4
+Karen 4
+Khachanov 4
+kịch 4
+Áo 8
+kết. 4
+Slam.
+Thiem 4
+đấu. 6
+anh. 4
+ngơi".
+Để 4
+phút.
+Kỷ 4
+thắng, 4
+Slam, 4
+Muster 4
+Thomas 4
+1995. 4
+nối 4
+hôm, 6
+lần.
+Bình 4
+An	 4
+style="position:absolute;left:0px" 20
+alt="Runner 20
+hào 26
+nhí 28
+hứng 26
+data-reference-id="26545715" 2
+Marathon" 20
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6372-1560057548_680x0.jpg" 2
+data-component-caption="&amp;lt;p&amp;gt;
+	Trong 4
+2019  4
+5km 4
+10km.
+
+
+
+
+
+<img 2
+10km.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Trong 2
+data-reference-id="26545716" 2
+data-component-caption="&amp;lt;p&amp;gt;
+	Do 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6376-1560057559_680x0.jpg" 2
+Nhơn. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Do 2
+data-reference-id="26545717" 2
+Nhơn. 
+
+
+
+
+
+<img 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6365-1560057522_680x0.jpg" 2
+data-component-caption="&amp;lt;p&amp;gt;
+	Một 4
+huynh 16
+5km. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Một 4
+data-reference-id="26545718" 2
+5km. 
+
+
+
+
+
+<img 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6368-1560057536_680x0.jpg" 2
+Ánh 6
+data-component-caption="&amp;lt;p&amp;gt;
+	&amp;quot;Mỗi 2
+vọng&amp;quot; 2
+đồng.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+"Mỗi 2
+châm 12
+vọng" 2
+data-reference-id="26545719" 2
+đồng.
+
+
+
+
+
+<img 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6366-1560057526_680x0.jpg" 2
+A, 4
+10% 12
+Cai. 4
+Thông 12
+chạy.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Theo 2
+chạy.
+
+
+
+
+
+<img 2
+data-reference-id="26545720" 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6371-1560057546_680x0.jpg" 2
+kết. "Trở 4
+data-component-caption="&amp;lt;p&amp;gt;
+	Chia 2
+chạy.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Chia 2
+chạy.
+
+
+
+
+
+
+
+<img 2
+phát, 4
+data-reference-id="26545721" 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6370-1560057543_680x0.jpg" 2
+data-component-caption="&amp;lt;p&amp;gt;
+	Tâm 2
+khang 4
+Kim 8
+Thanh, 4
+Sa 4
+Pa, 4
+Cai.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Tâm 2
+data-reference-id="26545722" 2
+Cai.
+
+
+
+
+
+<img 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6373-1560057550_680x0.jpg" 2
+data-component-caption="&amp;lt;p&amp;gt;
+	Phong 2
+trào 6
+ba  4
+Nhờ 6
+đây. 6
+toả 4
+này. 
+
+
+
+
+
+<img 2
+này. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Phong 2
+data-reference-id="26545723" 2
+Thuỳ, 4
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6375-1560057556_680x0.jpg" 2
+làng 6
+nickname 4
+&amp;quot;&amp;lt;a 2
+href=&amp;quot;https://vnexpress.net/the-thao/thuy-oliver-vuot-mac-cam-ngoai-hinh-toa-sang-tren-duong-chay-nghiep-du-3782290.html&amp;quot; 2
+Oliver&amp;lt;/a&amp;gt;&amp;quot; 2
+rel=&amp;quot;nofollow&amp;quot;&amp;gt;Thuỳ 2
+21km, 8
+5km. 4
+Thuỳ 4
+Oliver 4
+"Thuỳ 2
+trào. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Trong 2
+Oliver" 2
+data-reference-id="26545724" 2
+trào. 
+
+
+
+
+
+<img 2
+src="https://i-thethao.vnecdn.net/2019/06/09/IMG-6377-1560057561_680x0.jpg" 2
+nốt 4
+nán 4
+mét 4
+5km. 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hoa 2
+văn
+
+
+
+
+
+
+
+
+Với 2
+2019,  2
+Kim	
+ 2
+vọng. 
+
+
+
+
+Xuân 2
+Andy 2
+Anthony 2
+Ruiz 2
+Joshua, 2
+Madison 2
+Square 2
+Garden 2
+Gennady 2
+đài 4
+Golovkin, 6
+middleweight 2
+Canelo 8
+Alvarez, 2
+trung. 2
+võ 12
+Kazakhstan 4
+sàn 2
+9/2018.
+
+
+
+Golovkin 2
+thượng 7
+AP.
+
+
+Đối 2
+đài. 2
+Steve 2
+Rolls, 2
+xoàng. 2
+8/6. 2
+"Triple 2
+G". 2
+dò, 2
+bão 2
+dây 8
+đài.
+Khi 2
+Bắt 2
+Golovkin 12
+Rolls 4
+tăm 2
+hở. 2
+mũi. 2
+hức 6
+ép 4
+Cựu 2
+đấm 2
+trái.
+Trước 2
+12.000 2
+khán 2
+chật 2
+kín, 2
+biết: 2
+"Mọi 2
+knock-out, 2
+York 2
+đây".
+
+
+
+Golovkin 2
+dày 6
+dạn 2
+AP.
+
+
+Trước 2
+middleweight. 2
+Trận 2
+1982 2
+Canelo, 4
+9/2017.
+Do 2
+doping, 2
+kiến. 2
+Mexico, 2
+chối 6
+vệ 4
+IBF 2
+Super, 2
+WBA 2
+WBC 2
+IBO. 2
+Canelo.
+Thắng 2
+Nguyễn	 2
+
+
+Liên 3
+hồng 38
+Himalaya, 3
+viêm 9
+"khoe", 3
+họng. 5
+hũ 3
+0,5 3
+85.000 3
+Nam.
+Chị 3
+hũ. 3
+dĩ 3
+sốt" 8
+"cơn 11
+mỏi 3
+xương 16
+khớp, 3
+tê 3
+máu 8
+bì 3
+huyết, 3
+trừ 6
+mạch, 3
+cân... 3
+ion 6
+dương, 3
+(có 3
+sóng 5
+lợi) 3
+tử.
+Không 3
+nhuận 18
+tốt. 3
+ôm 2
+Cứ 3
+3,5% 3
+nhập. 3
+sỉ 15
+đồng", 3
+nói.
+
+
+
+Muối 3
+Nam. 
+
+
+Đạt 3
+Himalaya 24
+Hoài, 3
+Oanh 6
+Nai 3
+50-60 3
+"Hãy 3
+gói 10
+thiệu 15
+rung 5
+rao 6
+đùi 3
+35.000 11
+lượm 3
+gói, 3
+gram. 3
+1,8 3
+online 3
+Nẵng, 3
+này. 
+Không 3
+"khoe" 3
+"thuốc 3
+vật. 9
+tiên" 3
+heo 38
+Phi, 3
+trộn 5
+gà 3
+cúm.... 3
+Cũng 3
+ngày.
+Vì 3
+khớp. 3
+Hạnh 3
+quả, 11
+VnExpress về 3
+trị.
+Trao 3
+sốt 3
+Himalaya", 3
+BS 9
+Diệp, 6
+thổi 9
+Dinh 3
+phồng 9
+Muối 3
+hơn.
+Theo 3
+mỏ 3
+Pakistan. 3
+chiết 3
+ngon 3
+sạch. 3
+trùng, 3
+liều 3
+áp, 5
+huyết 3
+tim 21
+ức 3
+mạch... 3
+được.
+Chạy 3
+triển, 3
+mình.
+Cũng 3
+Rene 3
+oan 3
+Ficek, 3
+Thực 3
+hay, 3
+Seattle 6
+hàm 3
+hạt, 3
+khoáng 12
+rau, 3
+thịt. 3
+– 5
+14% 3
+3-5%.
+Ngoài 3
+i-ốt 3
+thể. 
+"Mọi 3
+hợp', 3
+'vitamin 3
+lầm. 3
+hụt", 3
+Kelsey 3
+Mangano, 3
+xét. 
+Đứng 3
+Massachusetts 3
+góc 7
+nhuận, 3
+cấp. 5
+"ngất 3
+ngưởng" 3
+lôi 5
+hòng 3
+tiền". 
+Thi 3
+"phí 3
+Hà	 5
+
+
+Xuất 2
+Zara 16
+H&M 12
+hóa. 3
+chuỗi 2
+Blue 2
+Exchange, 2
+Ivy 2
+Kowil. 
+
+Theo 2
+của Zara 2
+những chuỗi 2
+1.700 2
+Fashion 2
+Mitra 6
+Retail.
+Tại 2
+Adiperkasa 2
+Dutti, 2
+Massimo 2
+Pull 2
+Stradivarius. Tuy 2
+Bear 2
+của Mitra 2
+lực. 
+Theo 2
+Adiperkasa, 4
+1.200 2
+1.970 2
+rupiah, 2
+Moda 2
+90%.
+Việt 2
+Doanh 2
+Indonesia. 2
+Adiperkasa).
+Tổng 2
+cực, 3
+(xếp 2
+3.100 2
+gộp 2
+40%. 
+
+
+
+Khách 2
+chen 2
+sắm 2
+ngoái. 2
+Ảnh: Anh 2
+khúc 2
+Tú
+
+
+Cùng 2
+hái 2
+Zara, 4
+gặt 2
+Dù 2
+năm.
+Năm 2
+763 2
+mặt.
+Sự 2
+H&M, 4
+Nam. Ngay 2
+dòng 6
+toán.
+Một 2
+đồ, 2
+khảo 2
+Niesel 2
+chuộng 6
+hiệu, 2
+khi, 2
+Độ. 2
+Statistics 2
+báo, 2
+Portal 2
+22,5%. 2
+1 4
+2022.
+Dù 2
+dùng.
+Năm 2
+6% 2
+98 2
+thu. 2
+Hai 8
+doanh. 4
+gộp.
+Với 2
+H&M. 
+Minh 2
+mòn 2
+Sơn	 2
+Cổ 2
+
+
+Tại 2
+Chăn 2
+CP 2
+kg. 
+Cũng 2
+tục, 2
+Dabaco 2
+tại trại 2
+42.000 2
+kg. 4
+33.000 2
+nhắc 2
+39.000 4
+Hồng, 2
+hàng. 2
+sông 2
+kg.
+
+
+
+Giá 2
+41.000 2
+Quân.
+
+
+Cùng 2
+Bắc, tại 2
+tuần. 2
+Hoá, 2
+An, 6
+Trị, 2
+Thừa 2
+Thiên 2
+Huế 3
+37.000 2
+1.000 4
+đồng.
+Ở 2
+như Đồng 2
+Nai, 2
+Ninh, 4
+Tháp 2
+Hiện, 2
+38.000 2
+bán, 2
+kg.
+Nguyên 2
+sụt 2
+giảm. 2
+Mặt 2
+đây.
+Trao 2
+Tiển, 4
+VnExpress, 2
+Hóc 2
+(TP 2
+Môn 2
+HCM) 2
+Lượng 2
+39.500 2
+4.900 2
+tháng.
+Theo 2
+đêm, 2
+ATTP 2
+đêm. 2
+Tiển 2
+ngày.
+Tại 2
+ngõ. 2
+ngõ, 2
+trục 2
+phụ. 2
+Củ 2
+chốt, 6
+Chánh 2
+Bè 2
+chốt.
+Thi 2
+Bào 4
+
+
 Trần 1
-Đến 1
-Vĩnh 1
-Tuyến 1
-trao 1
-Sơn 1
-Gòn.
-Trung 1
+ung 3
+vú 1
+thư 2
+phẫu 1
+ngực. 1
+tiên, 3
+lần. 1
+tia 1
+71 1
+xạ 1
+trị.
+Đầu 1
+nặng, 1
+ngỏ 1
+Diệu 2
+Thuần 3
+cảm. " 1
+Đóa 1
+thường" 1
+tỏa 1
+người. 
+"Ban 1
+sức. 1
+quyển 1
+biết. 
+
+
+Hồi 1
+tuần", 1
+Nội. 9
+xen 1
+dạn, 1
+đớn 1
+giá thường 2
+chọi 1
+Bào.
+Ngoài 1
+nguyện 5
+đỡ 1
+lao. 1
+chị, 1
+nụ 3
+ơn, 1
+cười 9
+đời. 1
+mình.
+Hồi 1
+mãn 4
+hận. 1
+hối 5
+sống", 1
+sẻ.
+Thùy 1
+An  1
+
+
+Phó 2
+Huỳnh 2
+Khánh 4
+Trang, 2
+thai 10
+lòng, 3
+33 2
+nhau. 
+Các 2
+chẩn 8
+ảnh, 2
+dục. 2
+bụng 2
+trứng, 2
+Vương. 2
+rốn.
+
+
+
+Cặp 2
+Ảnh 4
+cấp.
+
+
+Sau 2
+hiểm 4
+mổ 2
+kiến. 
+Hai 2
+3,2 2
+viện, 3
+Nhi 2
+cân 2
+
+Lê 4
+Phương
+
+
+ 2
+
+
+Ba 2
+hóc 6
+vướng 4
+Ho 4
+mũi 2
+khạc 2
+họng 2
+dạ 6
+dày.
+Gần 2
+ho 4
+dữ 2
+dài, 2
+dội 2
+ngực, 2
+thở, 6
+lồng 2
+ngược, 2
+uống 4
+giảm.
+Ngày 2
+và nghi 2
+thuyên 2
+phế 12
+mê. 2
+Kíp 2
+mủ, 2
+sưng 2
+tấy 2
+bít 4
+phải.
+Bác 2
+kẹp 2
+trị.
+
+
+
+Xương 2
+gắp 4
+ Ảnh: 2
+Trang.
+
+
+Bác 2
+Định, 2
+Hô 2
+phổi 2
+chảy 2
+mủ 4
+khăn.
+"Nếu 2
+tạp, 2
+trị. 4
+khoẻ 2
+hấp, 4
+khí, 2
+phổi, 4
+quản...", 2
+nói.
+Thông 2
+khạc, 2
+móc, 2
+nuốt 2
+mẹo 2
+rơi 5
+thở. 4
+thở 5
+vong. 
+Bác 2
+vàng, 2
+đùa, 4
+nhỏ. 3
+Cần 8
+uống, 4
+y 2
+nhai 2
+thời.  2
+Nga
+
+
+ 2
+alt="Mai 32
+Thúy 72
+phút" 32
+data-reference-id="26545471" 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/mai-phuong-thuy-vnexpress-marathon_680x0.jpg" 4
+data-component-caption="&amp;lt;p&amp;gt;
+	Mai 8
+chạy. 8
+6h30 8
+km.
+
+
+
+
+
+<img 4
+km.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Mai 4
+data-reference-id="26545472" 4
+data-component-caption="&amp;lt;p&amp;gt;
+	Sáu 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/1-1560046749_680x0.jpg" 4
+thiện, 8
+phải. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Sáu 4
+yếu, 8
+phải. 
+
+
+
+
+
+<img 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/mai-phuong-thuy-2_680x0.jpg" 4
+data-reference-id="26545473" 4
+data-component-caption="&amp;lt;p&amp;gt;
+	Trước 4
+trình.
+
+
+
+
+
+<img 4
+trình.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Trước 4
+data-reference-id="26545474" 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/3-1560046741_680x0.jpg" 4
+data-component-caption="&amp;lt;p&amp;gt;
+	Thời 4
+thấm 8
+mệt, 8
+lực. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Thời 4
+lực. 
+
+
+
+
+
+<img 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/7-1560046810_680x0.jpg" 4
+data-reference-id="26545475" 4
+7h10'.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Người 4
+7h10'.
+
+
+
+
+
+<img 4
+data-reference-id="26545476" 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/mai-phuong-thuy-vne-marathon-1560059757_680x0.jpg" 4
+79 8
+1, 8
+m, 8
+(Hoa 8
+2006, 8
+giới) 8
+1988 8
+2006. 8
+showbiz, 8
+doanh.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Mai 4
+lọc 8
+doanh.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mai 4
+Bib 4
+2019
+
+
+
+
+
+
+Mai 4
+8/6.
+
+
+
+
+
+<img 4
+data-reference-id="26545478" 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/6-1560046729_680x0.jpg" 4
+(giữa) 8
+sức, 8
+phút. 8
+đích.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Người 4
+data-reference-id="26545479" 4
+đích.
+
+
+
+
+
+<img 4
+src="https://i-giaitri.vnecdn.net/2019/06/09/mai-phuong-thuy-ho-duc-vinh-1560056346_680x0.jpg" 4
+(phải) 8
+data-component-caption="&amp;lt;p&amp;gt;
+	Hoa 4
+thi.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	VnExpress 4
+niên. 8
+Giải 8
+Ủy 13
+xổ 8
+giãn 2
+mắn, 9
+dịp 8
+thiện. 8
+&amp;quot;mỗi 4
+đường, 8
+sinh&amp;quot;, 4
+VĐV, 8
+thi.
+
+VnExpress 4
+VnExpress&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Hoa 4
+chức.
+
+Bên 4
+sinh", 4
+"mỗi 4
+VnExpress
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hoa 4
+văn
+
+
+
+
+
+
+Hoa 4
+2019.
+
+
+
+Hà 4
+Thu	 4
+alt="Sao 11
+'Nàng 11
+Dae 17
+Jang 17
+Geum' 11
+hôn" 11
+src="https://i-giaitri.vnecdn.net/2019/06/08/park-eun-hye-9496-1536914489-4958-1536917262_680x0.jpg" 1
+data-reference-id="26543458" 1
+data-component-caption="&amp;lt;p&amp;gt;
+	Park 4
+Hye 16
+Eun 19
+1978, 2
+Lee 3
+Yeon 2
+Szaeng 2
+style=&amp;quot;color:rgb(0,0,0);&amp;quot;&amp;gt;a 1
+củ&amp;lt;span 1
+Geum 3
+Young 2
+(Lee 2
+Ae 2
+đóng) 2
+&amp;lt;em&amp;gt;Nàng 2
+Geum&amp;lt;/em&amp;gt;. 1
+&amp;lt;em&amp;gt;Lee 1
+San 2
+Chosu&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;em&amp;gt;n,&amp;lt;/em&amp;gt; 1
+&amp;lt;em&amp;gt;Son 1
+hồng&amp;lt;/em&amp;gt;, 1
+&amp;lt;em&amp;gt;Ẩn 1
+yêu&amp;lt;/em&amp;gt; 1
+(đóng 2
+Dân), 2
+Enemy&amp;lt;/em&amp;gt;...&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Cô 1
+&amp;lt;em&amp;gt;Sweet 1
+2008. 2
+Tháng 2
+sảy 2
+thai, 2
+cặp 2
+trai. 6
+&amp;lt;a 1
+href=&amp;quot;https://vnexpress.net/giai-tri/dien-vien-nang-dae-jang-geum-ly-hon-3809433.html&amp;quot; 1
+rel=&amp;quot;nofollow&amp;quot;&amp;gt;ly 1
+hôn&amp;lt;/a&amp;gt; 1
+Diễn 8
+sống. 4
+con.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Park 1
+Geum. 1
+Nàng 2
+Chosun, 1
+Ẩn 1
+Son 1
+con.
+
+
+
+
+
+<img 1
+Sweet 1
+Enemy...
+
+Cô 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/40705497-461722787655341-1658135299294756864-n_1559964296_680x0.jpg" 1
+data-component-caption="&amp;lt;p&amp;gt;
+	Ngoài 1
+data-reference-id="26543459" 1
+chức.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Bên 4
+con, 8
+lịch, 4
+vỡ. 2
+phim, 2
+&amp;quot;Với 1
+con&amp;quot;.  1
+thọ 2
+con".  1
+ 
+
+
+
+
+
+<img 1
+data-reference-id="26543460" 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/40814531-298537844274511-2740011731223838720-n_680x0.jpg" 1
+London 2
+data-component-caption="&amp;lt;p&amp;gt;
+	​Diễn 1
+(Anh). 2
+Jae 4
+Wan 2
+mẹ.
+
+
+
+
+
+<img 1
+mẹ.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+​Diễn 1
+data-reference-id="26543461" 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/50015894-1076753295868903-1688366543923244709-n_680x0.jpg" 1
+khoảnh 4
+nước.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Park 1
+nước.
+
+
+
+
+
+<img 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/42469765-308874726605311-7237747947330125126-n_680x0.jpg" 1
+data-reference-id="26543462" 1
+data-component-caption="&amp;lt;p&amp;gt;
+	Khi 1
+chồng, 4
+Geum&amp;lt;/em&amp;gt; 1
+mẹ. 9
+vỡ, 2
+lịch.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Khi 1
+bà, 2
+lịch.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Park 1
+Hye
+
+
+
+
+
+
+Park 2
+nhật 1
+bé.
+
+
+
+
+
+<img 1
+data-reference-id="26543464" 1
+data-component-caption="&amp;lt;p&amp;gt;
+	Cô 2
+src="https://i-giaitri.vnecdn.net/2019/06/08/43985465-1679882788790528-2081916559401393066-n_1559964625_680x0.jpg" 1
+giới.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Cô 1
+giới.
+
+
+
+
+
+<img 1
+data-reference-id="26543465" 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/Prague-Castle_680x0.jpg" 1
+lành 2
+Âu. &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Park 1
+Âu. 
+
+
+
+
+
+<img 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/47690256-559899881101154-2253708917976800649-n-1559954889_680x0.jpg" 1
+data-reference-id="26543466" 1
+data-component-caption="&amp;lt;p&amp;gt;
+	Diễn 1
+điện. 2
+người&amp;quot;, 1
+ &amp;lt;/p&amp;gt;"/>
+
+
+
+
+Ngoài 1
+&amp;quot;Giây 1
+viết.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Diễn 1
+"Giây 1
+người", 1
+viết.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 1
+Eun-Hye 1
+Dramas
+
+
+
+
+
+
+Năm 1
+data-reference-id="26543468" 1
+Hye.
+
+
+
+
+
+<img 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/57045432-1209844082523334-2276903741193669365-n_680x0.jpg" 1
+data-component-caption="&amp;lt;p&amp;gt;
+	Niềm 1
+nấu 3
+dọn 4
+dẹp 2
+cửa... 2
+tập.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Niềm 1
+tập.
+
+
+
+
+
+<img 1
+data-reference-id="26543469" 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/56816173-384207845499288-3020384043345037319-n_680x0.jpg" 1
+rau 2
+bón 2
+nhỏ.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Cô 1
+xanh, 2
+nhỏ.
+
+
+
+
+
+<img 1
+data-reference-id="26543470" 1
+src="https://i-giaitri.vnecdn.net/2019/06/08/53723862-249057236046661-1332652801916047637-n_680x0.jpg" 1
+vẽ 2
+tranh. 2
+hoa, 2
+tươi. 2
+tại. 5
+&amp;quot;Tôi 1
+đủ&amp;quot;, 1
+đủ", 1
+nói.&amp;lt;/p&amp;gt;"/>
+
+
+
+
+Park 1
+nói.
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Park 1
+"Với 1
+41.
+
+
+
+Thanh 1
+matcha 2
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thiên 1
+Instagram	 1
+Australia/Nhà 1
+Australia
+
+
+
+
+
+Insider	 1
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vận 2
+marathon
+
+
+
+
+
+Kiều 2
+Dương
+
+5.008 2
+(VM) 2
+9/6 4
+Nhơn, 2
+ly: 2
+Định. 2
+(21 2
+km) 2
+full 2
+(42 2
+km). 2
+chạy tại 2
+đây.
+
+Giải 2
+FLC, 2
+Bamboo 2
+Airways, 2
+Agribank, 2
+TH 2
+True 2
+LUG.vn, 2
+Water, 2
+PTI, 2
+Thinh 2
+Hung 2
+Corp, 2
+Tiger 2
+Balm, 2
+Uniben, 2
+Adidas, 2
+Garmin, 2
+Trisport, 2
+Revive, 2
+nhãn 2
+Budweiser, 2
+Vietravel, 2
+Traveloka, 2
+Shynh 2
+Beauty, 2
+VietCredit, 2
+Vissan, 2
+Nutrition, 2
+Play 2
+California.
+	 2
+
+
+Vợ 2
+George 2
+Clooney, 2
+Clooney 2
+Amal 2
+ngoài, 2
+tha 4
+minh, 6
+cao.
+Không 2
+đấng 2
+đạt. 2
+mày 2
+5 đặc 2
+râu 2
+sau:
+Đầu 2
+trải, 2
+ngoài
+Vẻ 2
+am 4
+hiểu, 2
+tin, 2
+nghĩa, 2
+quyến 4
+rũ 4
+toát 2
+mài 2
+ông.
+Các 2
+dũa 2
+luyện, 2
+Cho 2
+An
+Ảnh: 1
+dàng 2
+có.
+Cũng 2
+ông. 3
+đập 7
+Song 2
+tảng 8
+hơn.
+
+
+
+Người 2
+Ảnh: Edlatimore.
+
+
+Thứ 4
+tốt
+Nền 2
+đủ. 4
+lĩnh. Nói 2
+mạnh.
+Thứ 2
+lập
+Dựa 2
+dẫm 2
+thích, 2
+ghét. 2
+Đặc 2
+suốt. 2
+Để chiếm 2
+đấц 2
+lập. 2
+lửng 2
+lơ, 2
+chờ, 2
+nhung 2
+trách.
+Người 2
+oán 2
+Ngược 2
+mẩn.
+
+
+
+Người 2
+được yêu 2
+thích. 5
+Kiểu 2
+chung 
+Đối 2
+"ông 2
+vịt", 2
+gà, 2
+kết. Điều 2
+léo 2
+khéo 2
+tiếp.
+Thứ 2
+lùi 4
+sau 
+Nam 2
+yêu, 2
+đừng 2
+kiêu 2
+ngạo 2
+sảo 2
+khấu 2
+thôi 2
+mỏi.
+Bảo 2
+gánh 2
+Nhiên 4
+Askmen) 2
+
+
+Cô 2
+Shelly 8
+Cohen, 2
+Warrington 2
+(hạt 2
+Paul, 4
+Cheshire) 2
+tóc 4
+Manchester 2
+vàng. 2
+City 2
+Brighton. 2
+kia chạm 2
+đấu.
+Sôi 2
+sưu 12
+sục 2
+1940. 2
+trá", 2
+"Không 2
+nữ, 4
+nói.
+
+
+
+Paul 2
+Paul 4
+45.000 2
+(hơn 2
+Sun.
+
+
+Bộ 2
+1,3 2
+đồng), 4
+(chưa 2
+thích: 2
+"Một 2
+hướng". Chẳng 2
+hời 2
+quý 10
+này.
+Một 2
+kết Paul 2
+The 6
+Anh thú 2
+nhiên. 2
+ngẫu 2
+làm. 2
+đoan", 2
+nói. 
+
+
+
+Shelly 2
+Cohen 2
+chồng. 2
+Sun.
+
+
+Paul 2
+Thêm 2
+thơ 2
+anh", 2
+trân 2
+cha 2
+trước.
+Cặp 2
+hận 2
+này.
+Bảo 2
+NYTimes, 3
+Microsoft 3
+Sun) 2
+Dell 6
+Arm 3
+Britain 3
+SK 3
+Hynix 3
+Quốc.
+
+
+
+Một 3
+(Trung 3
+Quốc). 3
+Reuters.
+
+
+Cuộc 3
+Cải 3
+cách, 3
+mại, 3
+"hậu 3
+khốc" 3
+Quốc.
+Bên 3
+"bóng 3
+Trump, 3
+gió" 3
+Riêng 3
+tại.
+Chi 3
+lộ. 3
+Microsoft, 3
+luận, 3
+lời.
+Việc 3
+cậy" 3
+đũa 3
+gia.
+Trong 3
+khứ, 3
+Cận 3
+"nhấn 3
+Washington 3
+nước" 3
+Kennedy, 3
+Scott 3
+Nghiên 3
+Quốc.
+Ngày 3
+15/5, 3
+"gây 3
+gia". 3
+Cùng 3
+68 3
+dõi. 3
+Google, 3
+Intel, 3
+Xilinx 3
+Qualcomm, 3
+ty.
+Bảo 3
+NYTimes)
+
+
+ 3
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tài 3
+xế 7
+nghiền 3
+nát 3
+xả 15
+máy
+
+
+
+
+
+
+Video: 3
+Youtube
+
+Những 3
+dài. 5
+Máy 3
+bẹp 3
+sát.
+Cũng 3
+máy. 3
+Độ 3
+ầm 3
+pô 3
+nẹt 3
+bóng, 2
+ỹ 3
+phạt 27
+quanh. 3
+tiền.
+Việc 3
+khiển 3
+Davangere, 3
+Karnataka 3
+3/6 3
+tiếp.
+Mỹ 3
+vé 24
+
+
+Chiếc 4
+"vẻ 4
+mức". 4
+ABC.
+
+
+
+Vé 4
+"Te 4
+Ảnh: Diario 4
+Amo" 4
+El 4
+Paysandú
+
+
+Chiều 4
+Telégrafo 4
+25/5 4
+xế, 4
+Paysandu, 4
+phạt, 4
+"thiếu 4
+(vẻ 4
+toái 3
+cộng)", 4
+Phía 4
+Amo).
+Khi 4
+trích. 4
+em" 4
+Tình 4
+lạm 4
+hỏi: 4
+phạt?
+Tuy 4
+giáng 4
+hứng, 4
+tác.
+Mỹ 4
+ABC) 4
+Seltos, 2
+SUV 2
+rỉ 2
+rò 2
+Xceed 8
+Kia 8
+Sportage 2
+Mẫu 2
+Ceed, 4
+Ceed 4
+Âu, 4
+Sportswagon 2
+Xceed, 2
+ProCeed.
+
+
+
+Kia 2
+Crossover 2
+Âu. 2
+Carscoops
+
+  
+Xceed 2
+trung, 2
+crossover 2
+Hyundai 2
+Cerato 2
+i30 2
+CarAdvice. 2
+hông, 2
+Nhìn 5
+Mercedes 2
+GLA. 2
+trống 2
+Stonic 2
+Sportage. 
+Kia 2
+khoang 2
+rãi 2
+Ford 2
+khúc. 2
+Focus 4
+hatchback. 2
+Active, 2
+Volkswagen 2
+Xceed. 2
+T-Roc. 
+Hãng 2
+Motor1, 2
+đình" 2
+"gia 2
+lít 4
+(Te 4
+xi-lanh 2
+118 2
+1,4 2
+mã 6
+xi-lanh, 2
+138 2
+lực. 
+Kia 2
+26/6 2
+tới. 
+Phạm 2
+1:
+
+
+>>Xem 3
+
+
+Câu 3
+2:
+
+
+>>Xem 3
+án
+Câu 12
+3:
+
+
+>>Xem 3
+
+
+Cuộc 2
+4:
+
+
+>>Xem 3
+III 2
+Olympia 6
+Đường 6
+sinh: 2
+Nghĩa 12
+(Trường 2
+Phổ 2
+Năng 2
+khiếu, 2
+HCM), 2
+(THPT 10
+Bá 32
+Chuyên 10
+Trọng, 2
+Thơ), 2
+Khải 6
+Huệ, 2
+Quang 4
+Tụy, 2
+Bình).
+Là 2
+460 2
+đầu. 
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nguyễn 2
+động
+
+
+
+
+
+
+Phần 2
+Khởi 4
+Vinh. 6
+VTV3
+
+Bước 2
+hộp 4
+gờm, 2
+câu, 6
+điểm.
+Sang 2
+Vượt 6
+vật, 2
+chướng 8
+đọc 2
+hai.
+Biết 2
+"Thực 2
+vật" 2
+"Xanh", 2
+đúng. 2
+Kết 2
+"Rừng".
+Bá 2
+chuông 2
+lời, 2
+chết. 2
+hộp, 2
+lời", 2
+"Rừng" 2
+òa 2
+tìm.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phần 2
+VTV3
+
+Kết 2
+Vinh
+
+
+
+
+
+
+Phần 2
+vươn 2
+130 2
+90 4
+điểm.
+Ở 2
+tốc, 2
+Tăng 2
+nhì 2
+240 4
+110 2
+điểm.
+Cho 2
+đích. 2
+Về 4
+Thi 2
+Nghĩa, 2
+240, 2
+Thơ 2
+được 20, 2
+5:
+
+
+>>Xem 3
+260.
+
+
+
+Nguyễn 2
+đích, 2
+hình
+
+
+Còn 2
+sướng. 
+"Em 2
+sướng", 2
+nguyệt 2
+quế 2
+19. 2
+II 2
+Châu, 2
+Bội 2
+và Nguyễn 2
+Đôn, 2
+Quý 2
+Hòa).
+Thí 2
+tới. 4
+
+
+Khi 2
+nghiệt 2
+"khắc 2
+giới", 2
+mình. 
+Nhiều 2
+mỉm 2
+xường 14
+7-8/6. 2
+xám, 2
+"thành 2
+công" 2
+mắn.
+Mới 2
+xám. 4
+Chen 2
+túc 2
+con", 2
+thiểu 2
+kể  2
+tín.
+Các 2
+váy về, 2
+Zhu 4
+Jing, 2
+Hải, 2
+thường.
+
+
+
+Nhiều 2
+thu  2
+Simon 2
+đỏ 6
+Song
+
+
+Về 2
+Tiếp 2
+"tinh 2
+lá, 2
+lộng 2
+lẫy".
+"Năm 2
+chót. 2
+đỏ", 2
+nói.
+Bên 2
+gile 6
+giản. 2
+"ma 4
+cheng 2
+jia", 2
+gong", 2
+đúng, 2
+"mã 2
+công".
+Ngoài 2
+dương 4
+"đứng 2
+lợi. 3
+"Mỗi 2
+bảng". 2
+huynh", 2
+kể.
+Trong 2
+(gaokao) 2
+sinh.
+
+Kỳ 2
+là quan 2
+nhất ở 2
+san 2
+trẻ, 4
+nghèo.
+
+Thí 2
+môn, 2
+gồm: 2
+(Sinh, 2
+Tiếng 2
+Lý), 2
+(Địa, 2
+Sử, 2
+trị). 2
+10,31 2
+thi.
+
+Tú 2
+lượn 2
+km/h
+
+
+
+
+
+Thu 2
+Auto 2
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cá 2
+voi 2
+cạn 2
+Quốc
+
+
+
+
+
+Thu 2
+CGTN) 2
+
+
+Tôi 6
+tốt, 3
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tàu 2
+khép 6
+khắc của 3
+kín do 3
+internet 3
+trầm 3
+đương, hẹn 3
+vời.
+3 3
+Blog) 2
+đột 3
+Cuộc 3
+ngột 3
+hò, 3
+thỏa 7
+bớt 3
+đơn. 
+Gần 3
+lai. 3
+đề, 3
+xôi, 3
+về. 3
+khao 3
+khát 3
+con?
+Thọ
+Gọi 3
+Liệu 3
+09 6
+6658 6
+1270, 6
+sự. 6
+cũ 2
+Chồng 1
+hư 1
+con. 
+Sau 1
+700 1
+Bố 1
+vả. 1
+vọng. Rút 1
+lầm 1
+shop 1
+trả. 1
+house 1
+thuê, 1
+dả.
+Vài 1
+mặt. 1
+tân 1
+anh. Anh 1
+anh. Yêu 1
+đối. Tôi 1
+thấy: 1
+nhược, 1
+bỏ.
+Thi 1
+khoát 1
+thoảng 1
+hại, 1
+phúc. Tôi 1
+thách, 1
+28 2
+hơn.
+Tình
+Gọi 1
+hiền 2
+ai, 2
+tính, 2
+kén 2
+nọ 2
+kia 2
+tập, 2
+trai.
+Người 2
+năng, 4
+cũng buồn, 2
+lắm, 2
+Đôi 2
+thương, 2
+tới? 2
+Mong 2
+khuyên.
+Phương
+Gọi 2
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cậu 3
+chiêu 5
+dụng. 3
+no 3
+(st) 7
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thầy 2
+nhắn 2
+xỉu 2
+trò
+
+
+
+
+
+Bác 2
+
+
+
+
+
+Chia 2
+thích.
+
+
+
+
+
+Cả 2
+bùn.
+
+
+Bác 2
+TAND 2
+Thiện 26
+(20 2
+Giết 2
+123 2
+Hình 2
+trọ 6
+'cho 3
+tuổi). 2
+chung.
+Được 2
+trưa 2
+11/6/2018. 2
+gổ, 2
+vớ 2
+chổi 2
+đánh. 2
+trọ, 4
+sự).
+Bản 2
+bới, 2
+T.H.
+
+
+Không 2
+đánh.
+
+
+
+Thiện 2
+ghen, 2
+trút 2
+đấm, 2
+khóc, 2
+van 2
+thành.
+Cả 2
+tướng'
+
+
+
+
+
+Mina 3
+bầm 2
+tím 2
+gái. 2
+đòn 2
+giúp. 2
+vác 2
+giật. 2
+yêu.
+Sau 2
+cho. 2
+ý.
+Hôm 2
+dọa, 2
+quê. 2
+vong 2
+xin. 2
+Mai, 2
+tòa, 4
+não.
+Trước 2
+ghen 2
+kinh, 2
+giận 2
+thuốc. 2
+hiểm, 2
+án.
+HĐXX 2
+hội.
+Hà 2
+
+
+Tối 2
+(45 2
+Thơ) 2
+Sing 2
+trong khu 2
+(thị 2
+hiện. 
+Người 2
+Dương) 2
+sọ 2
+trái, 2
+chém 4
+lìa 2
+chỗ.
+Khi 2
+tẩu 2
+thoát. 2
+Nạn 2
+đứt, 2
+nhiều.
+Theo 2
+dọa.
+Công 2
+hăm 2
+can.
+Nguyệt 2
+
+
+TAND 2
+Prokoffva 4
+tấu 2
+Nga) 2
+chính... 2
+Elena 16
+VKS 2
+rõ.
+Trước 2
+VKSND 2
+toà 2
+3-7 2
+328 2
+tù.
+Kết 2
+Nga 4
+dâm 10
+Ukraine 2
+dỗ 2
+dụ 4
+trú.
+
+
+
+Elena 2
+cấp.
+
+
+Ngoài 2
+Facebook, 2
+WhatsApp... 2
+Zalo, 2
+5-10 2
+6-30 2
+giá. 2
+đồng.
+Cô 2
+sextour 2
+Lạt, 2
+USD. 2
+Nẵng... 2
+Elena. 2
+"chân 2
+50%, 2
+dài".
+Trưa 2
+sạn 2
+22/1, 2
+Calmette 2
+(quận 4
+1) 2
+3) 2
+Khai 2
+tang 2
+Nam.
+Từ 2
+Ukraine, 2
+gái, 2
+nước.
+Cơ 2
+Quá 2
+đồng.
+Bình 2
+Nguyên  2
+dâm. 2
+tội, 2
